@@ -60,7 +60,7 @@ Stories prepared for interview use. Each follows STAR+R format:
 ## 5. California Vaccine Platform -- 8-Week Sprint (Speed + Stakes)
 
 - **S:** California needed statewide vaccine management platform during peak COVID demand. No existing infrastructure.
-- **T:** Onboard 950+ provider organizations across 59 counties in 8 weeks.
+- **T:** Onboard 950+ provider organizations across 58 counties in 8 weeks.
 - **A:** Led awareness and adoption program. Established partnerships with payers, community partners, government agencies. Delivered personalized onboarding at scale.
 - **R:** 500+ provider orgs onboarded in 8 weeks. Platform became California's permanent vaccine infrastructure.
 - **Reflection:** Speed and stakes force clarity. When you have 8 weeks and lives depend on it, you stop optimizing and start shipping.
