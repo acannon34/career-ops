@@ -1,17 +1,17 @@
 # Anthony J. Cannon
 
 **Enterprise AI Transformation & Operating Model Design**
-Managing Director, Accenture | Denver, CO | +1 (801) 350-1405 | [LinkedIn](https://linkedin.com/in/anthonyjcannon)
+Managing Director, Accenture | Salt Lake City, UT | +1 (801) 350-1405 | [LinkedIn](https://linkedin.com/in/anthonyjcannon)
 
 ---
 
 ## Executive Summary
 
-Enterprise AI leader who builds production systems and advises Fortune 100 C-suites on how to deploy them. **15+ years** across consumer, healthcare, public sector, and global enterprises. Managing Director at Accenture leading enterprise-wide data, analytics, and AI transformations across eight global markets.
+Enterprise AI leader who builds production systems and deploys them inside Fortune 100 enterprises. **15+ years** across consumer, healthcare, government, and global organizations. Managing Director at Accenture leading large-scale, global client operating model transformations within the world's largest tech change enablement practice (9,000 practitioners globally) — not as a soft-skills change consultant, but as the data, analytics, and AI leader bringing technical discipline to enterprise adoption at scale.
 
 **Personally designed and deployed multi-agent AI platforms, behavioral prediction systems, and agentic delivery engines** used in live, eight- and nine-figure client programs — not demos, not POCs, but production systems used by real teams. Independently built and shipped a production SaaS application, an AI-powered investment screening system processing 3,700+ securities nightly, and an always-on AI assistant with automated intelligence gathering and executive briefings.
 
-Track record includes **$100M+ commercial expansion**, **$75M program PMO**, **$50M+ claims transformation**, **$30M+ operating model redesign**, and deployment of California's statewide vaccine platform across 59 counties in 8 weeks.
+Track record includes **$100M+ commercial expansion**, **$75M program PMO**, **$50M+ platform transformation**, **$30M+ operating model redesign**, and deployment of California's statewide vaccine platform across 58 counties in 8 weeks.
 
 ---
 
@@ -27,8 +27,8 @@ Track record includes **$100M+ commercial expansion**, **$75M program PMO**, **$
 
 ### ACCENTURE — Managing Director, Enterprise AI Transformation
 
-*Senior Manager 2018 – 2022 | Managing Director 2022 – Present | Previously Manager, Health Strategy (pre-Aetna)*
-*Americas capability leader responsible for market positioning, talent strategy, and delivery innovation.*
+*Senior Manager 2018 – 2022 | Managing Director 2022 – Present*
+*Americas Talent leader for change activation within the world's largest tech change enablement practice — 9,000 people across the globe. Responsible for market positioning, talent strategy, and delivery innovation. Brings data, analytics, and AI discipline to change activation at a scale no other firm operates.*
 
 ---
 
@@ -50,12 +50,12 @@ Track record includes **$100M+ commercial expansion**, **$75M program PMO**, **$
 
 ---
 
-#### Global Faith-Based Organization — 180 Countries, 3,335+ Users
+#### Global Faith-Based Organization — 180 Countries, 30K Workforce
 *Oracle Fusion Finance Transformation | Change & Operating Model Lead*
 
-- Led the **organization change management workstream for a 5-year Oracle Fusion implementation** spanning **180 countries and 3,335+ end users**.
+- Led the **organization change management workstream for a 5-year Oracle Fusion implementation** spanning **180 countries and 3,335+ end users** across a diversified global organization with significant real estate holdings, education systems, humanitarian operations, and multiple independent service lines.
 - Designed and delivered the **Global Process Owner (GPO) onboarding bootcamp**, establishing the cultural foundation for the program and later reused across regions.
-- Directed **stakeholder impact assessment, change network activation, and communications strategy across 7 finance domains**.
+- Directed **stakeholder impact assessment, change network activation, and communications strategy across 7 finance domains**, navigating a decentralized governance model with distinct operational cultures across service lines.
 - Designed **executive "white-glove" enablement and activation experiences** referenced by other enterprises as a model for large-scale ERP change.
 - Supported senior finance and transformation leaders through transition risk management, adoption planning, and sustainment model design.
 
@@ -65,7 +65,7 @@ Track record includes **$100M+ commercial expansion**, **$75M program PMO**, **$
 *Program & Provider Onboarding Lead | 2021*
 
 - Led the **awareness and adoption program for California's COVID-19 vaccine management platform** during the early pandemic when demand exceeded supply.
-- Drove adoption across **59 counties and 950+ provider organizations**, with **500+ provider organizations onboarded within 8 weeks**.
+- Drove adoption across **58 counties and 950+ provider organizations**, with **500+ provider organizations onboarded within 8 weeks**.
 - Established partnerships with payers, community partners, and government agencies to deliver **personalized onboarding support to hospitals, physicians, and local health departments at scale**.
 - Platform was extended beyond COVID to serve as California's **statewide vaccine management infrastructure** for all vaccines.
 
@@ -135,7 +135,7 @@ Track record includes **$100M+ commercial expansion**, **$75M program PMO**, **$
 - Built a **production SaaS application on the Anthropic API** with multi-engine document intelligence (Tesseract, EasyOCR, Surya), automated workflow generation, and local-only data compliance. Live client in production.
 - Built an **AI-powered investment screening system** processing **3,700+ securities nightly via BigQuery** with automated pattern detection, scoring pipelines, and a full-stack Next.js interface.
 - Built an **always-on personal AI assistant** with email, messaging, and calendar integrations — cron-scheduled intelligence gathering, automated alerts, and daily executive briefings.
-- Built an **AI-powered crisis intelligence system** monitoring ~100 enterprise clients across 25+ sources every 30 minutes with automated severity scoring and leadership alerts.
+- Built an **AI-powered crisis intelligence system** monitoring ~50 enterprise clients across 25+ sources every 30 minutes with automated severity scoring and leadership alerts.
 - Built an **automated executive briefing system** for a Fortune 10 client — dual intelligence streams, C-suite-optimized formatting, daily delivery.
 
 **Technical stack:** Python, TypeScript/Node.js, Next.js, multi-agent orchestration (Claude/MCP), PostgreSQL, BigQuery, Docker, Azure DevOps, REST APIs, behavioral experiment design.
@@ -146,7 +146,7 @@ Track record includes **$100M+ commercial expansion**, **$75M program PMO**, **$
 
 - Founded and scaled a global AI practitioner community from **10 founding members to 600+ active contributors**.
 - Co-designed **applied AI enablement programs** reaching **5,000+ analysts across North America**, focused on production delivery workflows.
-- **Speaker at Oracle CloudWorld** on enterprise transformation for large-scale platform implementations.
+- **Speaker at Oracle AI World** on enterprise transformation for large-scale platform implementations.
 - Regular presenter to **enterprise and firmwide senior leadership** on AI-enabled operating models and value realization.
 - Frequently engaged by senior leaders to **demonstrate and stress-test AI-enabled delivery models** for client and firm use.
 
@@ -159,9 +159,9 @@ Track record includes **$100M+ commercial expansion**, **$75M program PMO**, **$
 | Downstream commercial expansion enabled | $100M+ |
 | Total program value led | $135M+ |
 | Operating model savings designed | $30M+ annual run-rate |
-| COVID vaccine platform deployment | 59 counties, 950+ providers, 8 weeks |
-| Global ERP transformation | 180 countries, 3,335+ users |
-| Workforce transitions designed | 1,300+ person org, 228 insourced roles |
+| COVID vaccine platform deployment | 58 counties, 950+ providers, 8 weeks |
+| Global ERP transformation | 180 countries, 30K workforce |
+| Workforce transitions designed | 1,300+ person org, 500 insourced roles |
 | Provider contracts managed (Aetna) | 150K+ across 10 markets |
 | Custom AI tools built and deployed | 100+ skills, hooks, agents |
 | AI practitioner community | 10 → 600+ contributors |
