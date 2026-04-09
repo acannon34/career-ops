@@ -11,7 +11,7 @@ Enterprise AI leader who builds production systems and deploys them inside Fortu
 
 **Personally designed and deployed multi-agent AI platforms, behavioral prediction systems, and agentic delivery engines** used in live, eight- and nine-figure client programs — not demos, not POCs, but production systems used by real teams. Independently built and shipped a production SaaS application, an AI-powered investment screening system processing 3,700+ securities nightly, and an always-on AI assistant with automated intelligence gathering and executive briefings.
 
-Track record includes **$100M+ commercial expansion**, **$75M program PMO**, **$50M+ platform transformation**, **$30M+ operating model redesign**, and deployment of California's statewide vaccine platform across 58 counties in 8 weeks.
+Track record includes **$150M downstream commercial expansion**, **$17M and $14M delivery P&Ls**, **$134M delivery scope**, **$75M program PMO**, **$50M+ platform transformation**, **$30M+ operating model redesign**, and deployment of California's statewide vaccine platform across 58 counties in 8 weeks.
 
 ---
 

@@ -3,6 +3,7 @@
 ## Pipeline completo
 
 1. Lee `cv.md` como fuentes de verdad
+1b. Lee `modes/_profile.md` — positioning playbook with archetype framing, ground truth numbers, and per-role-type guidance (what to lead with, what to cut, how to frame)
 2. Pide al usuario el JD si no está en contexto (texto o URL)
 3. Extrae 15-20 keywords del JD
 4. Detecta idioma del JD → idioma del CV (EN default)
