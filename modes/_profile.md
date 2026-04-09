@@ -112,6 +112,70 @@ When generating a resume for a specific role, use this playbook to decide what t
 
 ---
 
+## Resume & Cover Letter Audit Process
+
+When generating or reviewing a resume/cover letter for a specific role, follow this process in order.
+
+### Step 1: Start from the live job posting, not AC's draft narrative
+Read the actual JD. Identify the employer's operating language. What verbs do they use? What metrics do they screen for? Map AC's experience to THEIR frame, not ours.
+
+### Step 2: Separate true gaps from messaging gaps
+- **True gap:** AC has never held an alliance P&L title. No amount of reframing closes this. Bridge with adjacent proof ("I drove $150M in expansion and owned $17M/$14M delivery P&Ls — the work is the same, the title is different").
+- **Messaging gap:** AC has co-sell experience, but the resume said "enabled downstream expansion" instead of "drove commercial expansion through co-sell motions." This is a framing fix, not a capability fix.
+Fix messaging gaps aggressively. Acknowledge true gaps honestly.
+
+### Step 3: Determine role DNA — is it commercial, technical, or operational?
+- **Commercial roles** (alliance, partnerships, sales, GTM): Lead with `owned`, `led`, `drove`, `shaped` — in that order of evidentiary strength. Move strongest numbers into the top third. Compress technical builder proof into supporting credibility.
+- **Technical roles** (solutions architect, forward deployed, platform): Lead with builder proof, system design, production deployments. Keep full technical detail.
+- **Operational roles** (transformation, strategy, program): Lead with operating model design, governance architecture, org redesign. AI is the enabler, not the product.
+
+### Step 4: Apply the verb hierarchy for senior business roles
+For any role above IC level:
+1. **"Owned"** — P&L, budget, team, outcome (strongest)
+2. **"Led"** — program, workstream, initiative
+3. **"Drove"** — expansion, adoption, results
+4. **"Shaped"** — strategy, partner motion, operating model
+5. **"Helped" / "Supported"** — weakest; avoid unless accuracy requires it
+
+Use the strongest verb that's truthful. "Helped drive $150M expansion" is weaker than "drove" but more accurate if AC wasn't the sole driver. Choose the honest one.
+
+### Step 5: Translate experience into the employer's operating language
+Map AC's Accenture vocabulary to the target company's vocabulary:
+
+| AC's Language | Alliance/GTM Translation | Tech Translation |
+|---------------|--------------------------|------------------|
+| Delivery credibility | Co-sell currency | Deployment proof |
+| Operating model design | Joint operating model | Architecture |
+| Enablement programs | Field readiness / partner enablement | Developer relations |
+| Transformation economics | Deal economics / expansion math | ROI |
+| Stakeholder management | Executive governance | Cross-functional leadership |
+| Process architecture | Governance framework | System design |
+
+### Step 6: Check the top third
+The recruiter reads the headline, summary, and first 3 bullets. These must contain:
+- The role's #1 requirement mapped to AC's strongest proof
+- A specific number ($, %, scale)
+- The employer's language, not AC's
+
+### Step 7: Verify cover letter alignment
+- Does it target the EXACT role title from the JD?
+- Does it use the correct location?
+- Does it avoid overclaiming titles AC doesn't hold?
+- Is the narrative order: what I've done → why it maps → what I want to discuss?
+- For alliance roles, the best framing: "I know how the partner actually works internally — where deals stall, how delivery scales, and how to convert execution into durable growth."
+
+### Step 8: Final checklist
+- [ ] Numbers from Ground Truth section (never inflated)
+- [ ] Tech framing softened (not SWE depth)
+- [ ] Industries in correct order (Consumer first, no FS)
+- [ ] Accenture scale (9K) in summary or subtitle
+- [ ] Education below experience
+- [ ] No project names on resume (describe what + so what)
+- [ ] No personal/family projects referenced
+- [ ] Location: Salt Lake City, UT
+
+---
+
 ## Exit Narrative
 
 > Built the AI-enabled transformation practice at Accenture — not as an advisor watching from the side, but as someone who personally builds and ships production AI systems on live client programs. Ready to bring that to the company building the AI itself.
