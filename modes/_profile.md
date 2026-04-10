@@ -9,7 +9,7 @@ These are verified facts. Use exact numbers. Do not round up or fabricate.
 - **Largest delivery scope led:** $134M
 - **Commercial programs owned:** $75M and $50M
 - **Downstream commercial expansion driven:** $150M (from flagship program credibility)
-- **Operating model savings designed:** $30M+ annual run-rate (1,300-person org, 500 insourced roles)
+- **Operating model savings designed:** $30M+ annual run-rate (1,300-person org, 500 insourced roles total, 228 in first 2-year phase)
 
 ### Scale
 - **Accenture practice:** Americas Talent leader for change activation within world's largest tech change enablement practice — 9,000 practitioners globally
@@ -78,7 +78,7 @@ When generating a resume for a specific role, use this playbook to decide what t
 **Lead with:** Accenture insider knowledge — selling motions, staffing models, delivery economics, senior leadership dynamics. Co-sell story ($150M expansion). Multi-partner orchestration (California). Enablement at scale (5K practitioners, 600+ community).
 **Reframe:** $150M expansion as "co-sell motions." Operating model work as "joint operating model design." Community building as "built enablement function from zero."
 **Cut:** Indie builder projects (investment screener, SaaS app, personal assistant). Heavy technical detail. ChangeOS/ProcessOS by name.
-**Headline pattern:** "Enterprise AI Partnership & Commercial Expansion Leader"
+**Headline pattern:** "Enterprise AI Alliance, Commercial & Delivery Leader"
 **Aetna frame:** "Left Accenture to operate inside a Fortune 20 enterprise — built firsthand understanding of how large buyers evaluate, adopt, and scale technology platforms."
 
 ### Solutions Architecture / Forward Deployed roles

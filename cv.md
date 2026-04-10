@@ -44,7 +44,7 @@ Track record includes **$150M downstream commercial expansion**, **$17M and $14M
     - **4 requestor pathways** with authority matrices by request size
     - **3 stage gates** with POC accountability models across 5 enterprise personas
     - **6 governance dimensions** evaluated at each gate
-- Led transformation design for a **1,300-person organization** transitioning to a leaner, product-centric operating model targeting **$30M+ in annual run-rate savings**, including insourcing roadmap (228 roles across 2 years) and workforce distribution redesign (67/33 offshore-onshore split).
+- Led transformation design for a **1,300-person organization** transitioning to a leaner, product-centric operating model targeting **$30M+ in annual run-rate savings**, including insourcing roadmap (500 roles total, 228 in first 2-year phase) and workforce distribution redesign (67/33 offshore-onshore split).
 - **Built and deployed AI-enabled process design and transformation methods** — working production systems, not concepts — that materially reduced effort and cycle time versus traditional consulting approaches.
 - Created executive-grade artifacts beyond slides, including interactive operating-model experiences and executive decision models linking AI and analytics levers to enterprise financial outcomes.
 
