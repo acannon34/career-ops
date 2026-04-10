@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Anthony J. Cannon — CV</title>
+<style>
+  @font-face {
+    font-family: 'Space Grotesk';
+    src: url('./fonts/space-grotesk-latin.woff2') format('woff2');
+    font-weight: 300 700;
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: 'DM Sans';
+    src: url('./fonts/dm-sans-latin.woff2') format('woff2');
+    font-weight: 100 1000;
+    font-style: normal;
+    font-display: swap;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+
+  body {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 10px;
+    line-height: 1.5;
+    color: #1a1a2e;
+    background: #ffffff;
+    padding: 0;
+    margin: 0;
+  }
+
+  .page {
+    width: 100%;
+    max-width: 8.5in;
+    margin: 0 auto;
+    padding: 2px 0;
+  }
+
+  .header { margin-bottom: 16px; }
+  .header h1 {
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+    color: #1a1a2e;
+    letter-spacing: -0.02em;
+    margin-bottom: 6px;
+    line-height: 1.1;
+  }
+  .header-gradient {
+    height: 2px;
+    background: linear-gradient(to right, hsl(187, 74%, 32%), hsl(270, 70%, 45%));
+    border-radius: 1px;
+    margin-bottom: 10px;
+  }
+  .contact-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px 14px;
+    font-size: 10px;
+    line-height: 1.4;
+    color: #555;
+  }
+  .contact-row a { color: #555; text-decoration: none; }
+  .contact-row .separator { color: #ccc; }
+
+  .section { margin-bottom: 14px; }
+  .section-title {
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 11px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: hsl(187, 74%, 32%);
+    border-bottom: 1.5px solid #e2e2e2;
+    padding-bottom: 3px;
+    margin-bottom: 8px;
+    line-height: 1.2;
+  }
+
+  .summary-text { font-size: 10px; line-height: 1.6; color: #2f2f2f; }
+
+  a { white-space: nowrap; }
+
+  .job { margin-bottom: 10px; }
+  .job-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 12px;
+    margin-bottom: 2px;
+  }
+  .job-company {
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 11.5px;
+    font-weight: 600;
+    color: hsl(270, 70%, 45%);
+  }
+  .job-period { font-size: 9.5px; color: #777; white-space: nowrap; }
+  .job-role { font-size: 10px; font-weight: 600; color: #333; margin-bottom: 3px; }
+  .job-subtitle { font-size: 9px; color: #666; font-style: italic; margin-bottom: 5px; line-height: 1.45; }
+  .engagement-header {
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 10.5px;
+    font-weight: 600;
+    color: hsl(270, 70%, 45%);
+    margin-top: 8px;
+    margin-bottom: 2px;
+  }
+  .engagement-sub { font-size: 9px; color: #666; font-style: italic; margin-bottom: 4px; }
+  .job ul { padding-left: 15px; margin-top: 3px; }
+  .job li { font-size: 9.5px; line-height: 1.5; color: #333; margin-bottom: 2px; }
+  .job li strong { font-weight: 600; }
+  .sub-list { padding-left: 15px; margin-top: 1px; }
+  .sub-list li { font-size: 9px; margin-bottom: 1px; }
+
+  .project { margin-bottom: 8px; }
+  .project-title {
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 10.5px;
+    font-weight: 600;
+    color: hsl(270, 70%, 45%);
+  }
+  .project-desc { font-size: 9.5px; color: #444; margin-top: 2px; line-height: 1.45; }
+  .project-sub { font-size: 9.5px; color: #444; line-height: 1.45; }
+
+  .edu-item { margin-bottom: 4px; }
+  .edu-title { font-weight: 600; font-size: 10px; color: #333; }
+  .edu-org { color: hsl(270, 70%, 45%); font-weight: 500; }
+
+  .skill-item { font-size: 9.5px; color: #444; margin-bottom: 2px; }
+  .skill-category { font-weight: 600; color: #333; }
+
+  .impact-table { width: 100%; border-collapse: collapse; font-size: 9.5px; }
+  .impact-table th { text-align: left; font-weight: 600; color: #333; padding: 3px 8px 3px 0; border-bottom: 1px solid #e2e2e2; }
+  .impact-table td { padding: 2px 8px 2px 0; color: #444; border-bottom: 1px solid #f0f0f0; }
+
+  @media print {
+    body { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+    .page { padding: 0; }
+  }
+  .avoid-break, .project, .edu-item { break-inside: avoid; page-break-inside: avoid; }
+</style>
+</head>
+<body>
+<div class="page">
+
+  <!-- HEADER -->
+  <div class="header avoid-break">
+    <h1>Anthony J. Cannon</h1>
+    <div class="header-gradient"></div>
+    <div class="contact-row">
+      <span>anth.cannon@gmail.com</span>
+      <span class="separator">|</span>
+      <a href="https://linkedin.com/in/anthonyjcannon">linkedin.com/in/anthonyjcannon</a>
+      <span class="separator">|</span>
+      <a href="https://github.com/acannon34">github.com/acannon34</a>
+      <span class="separator">|</span>
+      <span>Salt Lake City, UT</span>
+    </div>
+  </div>
+
+  <!-- EXECUTIVE SUMMARY — verbatim from anthropic.md -->
+  <div class="section avoid-break">
+    <div class="section-title">Executive Summary</div>
+    <div class="summary-text">
+      Accenture Managing Director with 15+ years leading enterprise transformation and AI adoption across Fortune 100, public-sector, and global organizations. Directly owned <strong>$17M and $14M delivery P&Ls</strong>, led programs with delivery scope up to <strong>$134M</strong>, and helped drive <strong>$150M in downstream commercial expansion</strong> through co-sell motions on large-scale enterprise programs. Deep operator inside Accenture's selling motions, staffing models, delivery economics, and senior leadership dynamics &mdash; the exact SI operating model Anthropic's partner motion needs to navigate.
+      <br><br>
+      Built and scaled AI enablement from zero: grew a global practitioner community from <strong>10 members to 600+ contributors</strong> and deployed training programs reaching <strong>5,000+ practitioners across North America</strong> &mdash; the same enablement-at-scale motion this role requires to ensure SI partners can position, sell, and deliver Claude effectively.
+      <br><br>
+      Active builder on <strong>Anthropic's own stack</strong> &mdash; Claude API, MCP protocol, multi-agent orchestration &mdash; with <strong>5 production AI platforms</strong> deployed in live enterprise programs and <strong>100+ custom AI skills and agents</strong> in daily use. Understands Claude's capabilities from the practitioner's seat, not just the partnership deck.
+    </div>
+  </div>
+
+  <!-- PROFESSIONAL EXPERIENCE — verbatim from anthropic.md -->
+  <div class="section">
+    <div class="section-title">Professional Experience</div>
+
+    <!-- ACCENTURE -->
+    <div class="job">
+      <div class="job-header">
+        <span class="job-company">Accenture</span>
+        <span class="job-period">Senior Manager 2018 &ndash; 2022 | Managing Director 2022 &ndash; Present</span>
+      </div>
+      <div class="job-role">Managing Director, Enterprise AI Transformation</div>
+      <div class="job-subtitle">Americas Talent leader for change activation within Accenture's largest tech change enablement practice &mdash; 9,000 practitioners globally. Operates at the intersection of commercial delivery, enterprise AI governance, and scaled enablement: shaping partner motions, advising senior leadership on AI-enabled operating models, and building practitioner readiness and delivery-quality systems for large-scale programs.</div>
+
+      <!-- Global Consumer / Retail -->
+      <div class="engagement-header">Global Consumer / Retail Enterprise &mdash; Fortune-Scale, 100k+ Workforce</div>
+      <div class="engagement-sub">Enterprise Data, Analytics &amp; AI Transformation | 2024 &ndash; Present</div>
+      <ul>
+        <li>Senior executive advisor and <strong>process design authority</strong> for a <strong>multi-year, enterprise-wide data, analytics, and AI transformation</strong>, spanning strategy, operating model, process architecture, and organization activation across <strong>8 global markets</strong>.</li>
+        <li>Led a <strong>low-eight-figure ($10M+) flagship transformation program</strong> with accountability for delivery economics, executive governance, and cross-functional execution, serving as trusted advisor to enterprise C-suite leaders (Chief Data / AI, Global Technology, Business Services).</li>
+        <li>Helped convert flagship delivery credibility into <strong>nine-figure commercial expansion</strong> through co-sell motions with enterprise leadership &mdash; shaping pursuit strategy and follow-on AI transformation opportunities across multiple business units and geographies.</li>
+        <li><strong>Personally designed the end-to-end joint operating model</strong> governing how Accenture delivery teams and the client enterprise would co-operate across AI/analytics lifecycle, including:
+          <ul class="sub-list">
+            <li><strong>29 process sub-steps</strong> across 5 lifecycle phases (Strategy, Define, Develop, Deploy, Activate)</li>
+            <li><strong>4 product archetypes</strong> with demand categorization framework (4 types x 3 sizes)</li>
+            <li><strong>4 requestor pathways</strong> with authority matrices by request size</li>
+            <li><strong>3 stage gates</strong> with POC accountability models across 5 enterprise personas</li>
+            <li><strong>6 governance dimensions</strong> evaluated at each gate</li>
+          </ul>
+        </li>
+        <li>Guided enterprise stakeholders through the governance requirements required to scale AI and analytics delivery, aligning business, technology, and operating leaders around decision rights, controls, and execution sequencing.</li>
+        <li>Led transformation design for a <strong>1,300-person organization</strong> transitioning to a leaner, product-centric operating model targeting <strong>$30M+ in annual run-rate savings</strong>, including insourcing roadmap (228 roles across 2 years) and workforce distribution redesign (67/33 offshore-onshore split).</li>
+        <li><strong>Built and deployed AI-enabled process design and transformation methods</strong> &mdash; working production systems, not concepts &mdash; that materially reduced effort and cycle time versus traditional approaches.</li>
+      </ul>
+
+      <!-- Oracle Fusion -->
+      <div class="engagement-header">Global Non-Profit Organization &mdash; 180 Countries, 30K Workforce</div>
+      <div class="engagement-sub">Oracle Fusion Finance Transformation | Change &amp; Operating Model Lead</div>
+      <ul>
+        <li>Led the <strong>organization change management for a 5-year Oracle Fusion implementation</strong> spanning <strong>180 countries and 30K end users</strong> across a diversified global organization with significant real estate holdings, education systems, humanitarian operations, and multiple independent service lines.</li>
+        <li>Designed and delivered the white-glove <strong>Global Process Owner (GPO) onboarding bootcamp</strong>, establishing the cultural foundation for the program and referenced by other clients as a model for large-scale ERP enablement.</li>
+        <li>Created and activated the in-person &ldquo;roadshow&rdquo; approach across <strong>18 markets</strong> to drive awareness and engagement.</li>
+        <li>Directed <strong>stakeholder impact assessment, change network activation, and communications strategy across 7 finance domains</strong>, navigating a decentralized governance model with distinct operational cultures across service lines.</li>
+      </ul>
+
+      <!-- California -->
+      <div class="engagement-header">State of California &mdash; COVID-19 Vaccine Management Platform</div>
+      <div class="engagement-sub">Program &amp; Provider Onboarding Lead | 2021</div>
+      <ul>
+        <li>Orchestrated cross-sector partnerships with <strong>McKinsey, EY, BCBS California, multiple state agencies, and provider coalitions</strong> &mdash; designing and executing the joint enablement model that drove adoption at scale across hospitals, physicians, and local health departments.</li>
+        <li>Led the <strong>awareness and adoption program for California's COVID-19 vaccine management platform</strong> during the early pandemic when demand exceeded supply.</li>
+        <li>Drove platform deployment velocity across <strong>58 counties and 950+ provider organizations</strong>, onboarding <strong>500+ organizations in 8 weeks</strong> through coordinated multi-partner engagement.</li>
+        <li>Platform was extended beyond COVID to serve as California's <strong>statewide vaccine management infrastructure</strong> for all vaccines.</li>
+      </ul>
+
+      <!-- National Health Plan -->
+      <div class="engagement-header">National Health Plan &mdash; Fortune-Scale Payer</div>
+      <div class="engagement-sub">Multiple Engagements | $50M+ Platform Transformation, Back-Office Transformation, PMO</div>
+      <ul>
+        <li><strong>Program lead for $50M+ &ldquo;next-gen&rdquo; platform transformation.</strong> Drove collaboration between functional teams, business &amp; IT, and vendors. Created program roadmap and timeline for automated functionality delivery.</li>
+        <li><strong>Chief of Staff for senior client executive</strong> during large-scale back-office transformation. Drove work effort across multiple workstreams (network, provider, product, benefits, claims) to enable core administrative capabilities across a <strong>70-person organization</strong>. Managed team that implemented <strong>automation capabilities saving $10M over 3 years</strong>.</li>
+        <li>Created and maintained executive dashboards and reports delivered to <strong>VP and C-suite audiences</strong>, identifying key risks, issues, and mitigation plans.</li>
+        <li><strong>Second-in-command in the PMO for a $75M new business launch.</strong> Oversaw executive status dashboards, risk &amp; issue management, and Agile ceremonies across <strong>19 workstreams</strong>.</li>
+        <li>Sole resource managing client relationship and building all project management infrastructure for a <strong>$21B government contract</strong> initiative &mdash; prior authorization requirements management.</li>
+        <li>Consistently selected by senior leaders to <strong>step into struggling workstreams</strong> and bring structure, clarity, and momentum.</li>
+      </ul>
+
+      <!-- Regional Health Plan -->
+      <div class="engagement-header">Regional Health Plan &mdash; Provider Data &amp; Government Product Launch</div>
+      <div class="engagement-sub">Multiple Engagements | Network, Provider Operations, Operating Model</div>
+      <ul>
+        <li><strong>Provider Data Optimization Engagement Lead:</strong> Led analysis to optimize provider contract modeling, <strong>decreasing run time by 25%</strong> and identifying <strong>$2.6M in annual savings</strong>. Conducted vendor market scan of value-based care administration capabilities. Designed future-state process to eliminate manual dual entry of provider data across systems.</li>
+        <li><strong>Network Workstream Lead:</strong> Drove work plan activities, resource modeling, and solution reference architecture discussions to prepare <strong>VP of Operations and CIO</strong> for Medicare Advantage and Medicare Supplement product launches. Advised on program structure, governance, and future operating model. Identified automation opportunities for network and provider data configuration.</li>
+      </ul>
+
+      <!-- Additional -->
+      <div class="engagement-header">Additional Enterprise Engagements</div>
+      <ul>
+        <li>Designed <strong>IT operating model</strong> for a 22-hospital, 2,200-provider, 200-clinic healthcare system.</li>
+        <li>Advised <strong>EVP / Interim Chief Clinical Officer</strong> on remediation of clinical support operations and technology systems.</li>
+        <li>Led organization design and activation for a global compliance and screening services firm.</li>
+      </ul>
+    </div>
+
+    <!-- AETNA -->
+    <div class="job">
+      <div class="job-header">
+        <span class="job-company">Aetna (CVS Health)</span>
+        <span class="job-period">Prior to Second Accenture Tenure</span>
+      </div>
+      <div class="job-role">Business Director, Next-Generation Platform</div>
+      <div class="job-subtitle">Left Accenture to operate inside a Fortune 20 enterprise &mdash; built firsthand understanding of how large buyers evaluate, adopt, and scale technology platforms. Returned to Accenture as Senior Manager, promoted to Managing Director within 4 years.</div>
+      <ul>
+        <li><strong>Led a 15-person organization</strong> through multi-market platform transformation, delivering capabilities across <strong>10+ states and 150K+ provider contracts</strong> simultaneously.</li>
+        <li>Managed concurrent production operations across 10 markets while executing multi-wave migration &mdash; the exact complexity profile of large enterprise AI deployments.</li>
+        <li>Coordinated across Medicare Operations, Network Strategy, and regional teams &mdash; navigating the cross-functional decision dynamics that define enterprise technology adoption.</li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- EDUCATION -->
+  <div class="section avoid-break">
+    <div class="section-title">Education</div>
+    <div class="edu-item">
+      <div class="edu-title"><strong>Master of Business Administration (MBA)</strong> - <span class="edu-org">Carlson School of Management, University of Minnesota</span></div>
+    </div>
+    <div class="edu-item">
+      <div class="edu-title"><strong>Master of Healthcare Administration (MHA)</strong> - <span class="edu-org">Carlson School of Management, University of Minnesota</span></div>
+    </div>
+  </div>
+
+  <!-- AI ENABLEMENT & PRACTICE DEVELOPMENT — verbatim from anthropic.md -->
+  <div class="section">
+    <div class="section-title">AI Enablement &amp; Practice Development</div>
+    <ul style="padding-left: 15px;">
+      <li style="font-size: 9.5px; line-height: 1.5; color: #333; margin-bottom: 2px;"><strong>Built and scaled an AI enablement function from zero</strong> &mdash; grew a global AI practitioner community from <strong>10 founding members to 600+ active contributors</strong>, establishing governance, content strategy, and activation cadence.</li>
+      <li style="font-size: 9.5px; line-height: 1.5; color: #333; margin-bottom: 2px;">Designed and deployed <strong>applied AI enablement programs</strong> reaching <strong>5,000+ practitioners across North America</strong>, translating platform capabilities into production delivery workflows at scale.</li>
+      <li style="font-size: 9.5px; line-height: 1.5; color: #333; margin-bottom: 2px;">Established <strong>delivery quality expectations, working methods, and activation mechanisms</strong> used to help practitioners adopt AI responsibly inside enterprise programs.</li>
+      <li style="font-size: 9.5px; line-height: 1.5; color: #333; margin-bottom: 2px;"><strong>Speaker at Oracle AI World</strong> on enterprise transformation for large-scale platform implementations.</li>
+      <li style="font-size: 9.5px; line-height: 1.5; color: #333; margin-bottom: 2px;">Regular presenter to <strong>enterprise and firmwide senior leadership</strong> on AI-enabled operating models and value realization.</li>
+      <li style="font-size: 9.5px; line-height: 1.5; color: #333; margin-bottom: 2px;">Frequently engaged by senior leaders to <strong>demonstrate and stress-test AI-enabled delivery models</strong> for client and firm use.</li>
+    </ul>
+  </div>
+
+  <!-- CLAUDE PLATFORM EXPERTISE — verbatim from anthropic.md -->
+  <div class="section">
+    <div class="section-title">Claude Platform Expertise</div>
+    <ul style="padding-left: 15px;">
+      <li style="font-size: 9.5px; line-height: 1.5; color: #333; margin-bottom: 2px;"><strong>Active builder on Anthropic's stack</strong> &mdash; Claude API, MCP protocol, multi-agent orchestration &mdash; with hands-on expertise in the platform this role positions to SI partners.</li>
+      <li style="font-size: 9.5px; line-height: 1.5; color: #333; margin-bottom: 2px;">Built and deployed <strong>5 production AI platforms</strong> and <strong>100+ custom AI skills, hooks, and orchestration agents</strong> on Claude, including multi-agent coordination, semantic memory systems, and enterprise process automation.</li>
+      <li style="font-size: 9.5px; line-height: 1.5; color: #333; margin-bottom: 2px;">Built an <strong>AI-powered crisis intelligence system</strong> monitoring ~50 enterprise clients across 25+ sources every 30 minutes with automated severity scoring and leadership alerts.</li>
+      <li style="font-size: 9.5px; line-height: 1.5; color: #333; margin-bottom: 2px;">Understands Claude's capabilities, API economics, and deployment patterns from the practitioner's seat &mdash; able to train SI teams on real production use, not just demos.</li>
+    </ul>
+  </div>
+
+  <!-- IMPACT NUMBERS — verbatim from anthropic.md -->
+  <div class="section avoid-break">
+    <div class="section-title">Impact Numbers at a Glance</div>
+    <table class="impact-table">
+      <tr><th>Metric</th><th>Value</th></tr>
+      <tr><td>Directly owned delivery P&L</td><td>$17M and $14M</td></tr>
+      <tr><td>Largest delivery scope led</td><td>$134M</td></tr>
+      <tr><td>Commercial programs owned</td><td>$75M and $50M</td></tr>
+      <tr><td>Downstream commercial expansion driven</td><td>$150M</td></tr>
+      <tr><td>Operating model savings designed</td><td>$30M+ annual run-rate</td></tr>
+      <tr><td>AI enablement reach</td><td>5,000+ practitioners, North America</td></tr>
+      <tr><td>AI practitioner community built</td><td>0 to 600+ contributors</td></tr>
+      <tr><td>Multi-partner platform deployment</td><td>58 counties, 8 weeks, 5 partner orgs</td></tr>
+      <tr><td>Multi-market coordination</td><td>10+ states (Aetna), 8 global markets (retail), 180 countries (ERP)</td></tr>
+      <tr><td>Production AI platforms shipped</td><td>5 enterprise platforms</td></tr>
+      <tr><td>Custom AI tools deployed</td><td>100+ skills, hooks, agents</td></tr>
+    </table>
+  </div>
+
+  <!-- SKILLS — verbatim from anthropic.md -->
+  <div class="section avoid-break">
+    <div class="section-title">Skills</div>
+    <div class="skill-item"><span class="skill-category">Enterprise AI:</span> Multi-Agent Orchestration, Claude API &amp; MCP Protocol, LLM Deployment, Prompt Engineering, Semantic Search, Production AI Systems</div>
+    <div class="skill-item"><span class="skill-category">Commercial &amp; Partnerships:</span> Delivery P&L Ownership, Enterprise Commercial Expansion, Co-Sell Motions, Joint Operating Model Design, Multi-Stakeholder Partnership Orchestration, SI/Platform GTM Strategy, Pipeline Generation &amp; Forecasting</div>
+    <div class="skill-item"><span class="skill-category">Transformation:</span> Operating Model Design, Process Architecture, Workforce Transition, Change Management, Program Governance</div>
+    <div class="skill-item"><span class="skill-category">Technical Fluency:</span> Via agentic engineering: Python, TypeScript/Node.js, PostgreSQL, Docker, REST APIs &mdash; applied in production enterprise delivery, not lab environments</div>
+    <div class="skill-item"><span class="skill-category">Industries:</span> Consumer/Retail, Healthcare (Payer, Provider, Government), Public Sector</div>
+  </div>
+
+</div>
+</body>
+</html>
