@@ -29,6 +29,10 @@ This makes it an alliance orchestration story, not just a delivery story.
 
 ### Oracle Fusion Organization (do NOT name the LDS Church)
 Diversified global non-profit with significant real estate holdings, education systems, humanitarian operations, and multiple independent service lines. Decentralized governance with distinct operational cultures across service lines.
+- **End users:** 30K (not 3,335 — that was system users only)
+- **Markets:** 18 (in-person roadshow activation)
+- **GPO bootcamp:** Referenced by other clients as a model for large-scale ERP enablement
+- **White-glove enablement:** Merged into GPO bootcamp description, not a separate bullet
 
 ### Aetna Experience
 Left Accenture to operate inside a Fortune 20 enterprise. Built firsthand understanding of how large buyers evaluate, adopt, and scale technology platforms. Led 15-person org, 150K+ provider contracts across 10+ states, CMS-regulated pricing. Returned to Accenture as Senior Manager, promoted to Managing Director within 4 years.
@@ -105,7 +109,7 @@ When generating a resume for a specific role, use this playbook to decide what t
 ### General rules for ALL roles
 - Industries order: Consumer first, then Healthcare, Public Sector. Never Financial Services.
 - Accenture scale (9K practice) appears in subtitle and/or summary of EVERY variant.
-- California partners (McKinsey, EY, BCBS, state agencies, provider coalitions) appear whenever deployment velocity or partnerships are relevant.
+- California partners (McKinsey, EY, BCBS, state agencies, provider coalitions) appear whenever deployment velocity or partnerships are relevant. Lead with the partnership bullet, not the platform description.
 - Oracle Fusion expanded description (diversified org) always included. Never name the LDS Church.
 - Education below Professional Experience (for 15+ year executives).
 - Tech framing always softened — "technical fluency" not "technical expertise."

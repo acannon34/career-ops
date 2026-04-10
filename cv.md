@@ -53,10 +53,10 @@ Track record includes **$150M downstream commercial expansion**, **$17M and $14M
 #### Global Faith-Based Organization — 180 Countries, 30K Workforce
 *Oracle Fusion Finance Transformation | Change & Operating Model Lead*
 
-- Led the **organization change management workstream for a 5-year Oracle Fusion implementation** spanning **180 countries and 3,335+ end users** across a diversified global organization with significant real estate holdings, education systems, humanitarian operations, and multiple independent service lines.
-- Designed and delivered the **Global Process Owner (GPO) onboarding bootcamp**, establishing the cultural foundation for the program and later reused across regions.
+- Led the **organization change management for a 5-year Oracle Fusion implementation** spanning **180 countries and 30K end users** across a diversified global organization with significant real estate holdings, education systems, humanitarian operations, and multiple independent service lines.
+- Designed and delivered the white-glove **Global Process Owner (GPO) onboarding bootcamp**, establishing the cultural foundation for the program and referenced by other clients as a model for large-scale ERP enablement.
+- Created and activated the in-person "roadshow" approach across **18 markets** to drive awareness and engagement.
 - Directed **stakeholder impact assessment, change network activation, and communications strategy across 7 finance domains**, navigating a decentralized governance model with distinct operational cultures across service lines.
-- Designed **executive "white-glove" enablement and activation experiences** referenced by other enterprises as a model for large-scale ERP change.
 - Supported senior finance and transformation leaders through transition risk management, adoption planning, and sustainment model design.
 
 ---
