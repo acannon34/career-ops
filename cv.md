@@ -28,7 +28,7 @@ Track record includes **$150M downstream commercial expansion**, **$17M and $14M
 ### ACCENTURE — Managing Director, Enterprise AI Transformation
 
 *Senior Manager 2018 – 2022 | Managing Director 2022 – Present*
-*Americas Talent leader for change activation within the world's largest tech change enablement practice — 9,000 people across the globe. Responsible for market positioning, talent strategy, and delivery innovation. Brings data, analytics, and AI discipline to change activation at a scale no other firm operates.*
+*Americas Talent leader for change activation within Accenture's largest tech change enablement practice — 9,000 practitioners globally. Operates at the intersection of commercial delivery, enterprise AI governance, and scaled enablement: shaping partner motions, advising senior leadership on AI-enabled operating models, and building practitioner readiness and delivery-quality systems for large-scale programs.*
 
 ---
 
@@ -36,8 +36,8 @@ Track record includes **$150M downstream commercial expansion**, **$17M and $14M
 *Enterprise Data, Analytics & AI Transformation | 2024 – Present*
 
 - Senior executive advisor and **process design authority** for a **multi-year, enterprise-wide data, analytics, and AI transformation**, spanning strategy, operating model, process architecture, and organization activation across **8 global markets**.
-- Delivered a **low-eight-figure ($10M+) flagship transformation program**, serving as trusted advisor to enterprise C-suite leaders (Chief Data / AI, Global Technology, Business Services).
-- Enabled **nine-figure ($100M+) downstream commercial expansion** by establishing delivery credibility, executive trust, and clear articulation of AI-enabled value.
+- Led a **low-eight-figure ($10M+) flagship transformation program** with accountability for delivery economics, executive governance, and cross-functional execution, serving as trusted advisor to enterprise C-suite leaders (Chief Data / AI, Global Technology, Business Services).
+- Helped convert flagship delivery credibility into **$150M downstream commercial expansion** through co-sell motions with enterprise leadership — shaping pursuit strategy and follow-on AI transformation opportunities across multiple business units and geographies.
 - **Personally designed the end-to-end operating model architecture**, including:
     - **29 process sub-steps** across 5 lifecycle phases (Strategy, Define, Develop, Deploy, Activate)
     - **4 product archetypes** with demand categorization framework (4 types x 3 sizes)
