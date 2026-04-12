@@ -22,6 +22,30 @@ There are two layers. Read `DATA_CONTRACT.md` for the full list.
 
 **THE RULE: When the user asks to customize anything (archetypes, narrative, negotiation scripts, proof points, location policy, comp targets), ALWAYS write to `modes/_profile.md` or `config/profile.yml`. NEVER edit `modes/_shared.md` for user-specific content.** This ensures system updates don't overwrite their customizations.
 
+## Data Flow and Persistence (CRITICAL)
+
+This repo runs across two machines. Changes that aren't committed and pushed are lost.
+
+**Architecture:**
+- **ThinkPad** runs the automated batman scanner via OpenClaw cron (M/W/F + weekly)
+- **Mac** is where AC works interactively with Claude sessions
+- Both machines sync via git push/pull on the same branches
+
+**Single source of truth:**
+- `data/applications.md` is the ONLY tracker. There is no other tracker.
+- `data/scan-history.tsv` is the URL dedup log
+- The old `job-search/applications.md` in the wolverine parent repo is RETIRED -- never write to it
+
+**Persistence rules -- every status change must be saved:**
+1. Write the change to disk (edit `data/applications.md` for existing entries, or write TSV to `batch/tracker-additions/` for new entries)
+2. Commit the change: `git add data/applications.md && git commit -m "description"`
+3. Push: `git push origin main`
+4. Update the wolverine submodule pointer: `cd .. && git add career-ops && git commit -m "description" && git push origin main`
+
+**This applies to ALL status changes** -- marking roles as SKIP, Discarded, Applied, or any other state. A status change that only exists in conversation memory is not a status change. If you told the user you updated the tracker, the file on disk must reflect that and the commit must exist.
+
+**Automated scans:** The batman wrapper script (`batman/wolverine-scan.sh`) handles commit/push after `claude -p` runs. But interactive sessions (you) must commit/push yourself.
+
 ## Update Check
 
 On the first message of each session, run the update checker silently:
