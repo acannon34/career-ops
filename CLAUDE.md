@@ -15,6 +15,7 @@ There are two layers. Read `DATA_CONTRACT.md` for the full list.
 **User Layer (NEVER auto-updated, personalization goes HERE):**
 - `cv.md`, `config/profile.yml`, `modes/_profile.md`, `article-digest.md`, `portals.yml`
 - `data/*`, `reports/*`, `output/*`, `interview-prep/*`
+- `resumes/*`, `cover-letters/*`, `applications/*`
 
 **System Layer (auto-updatable, DON'T put user data here):**
 - `modes/_shared.md`, `modes/oferta.md`, all other modes
@@ -84,6 +85,9 @@ AI-powered job search automation built on Claude Code: pipeline tracking, offer 
 | `interview-prep/{company}-{role}.md` | Company-specific interview intel reports |
 | `analyze-patterns.mjs` | Pattern analysis script (JSON output) |
 | `reports/` | Evaluation reports (format: `{###}-{company-slug}-{YYYY-MM-DD}.md`) |
+| `resumes/` | Role-tailored resume markdown (format: `{company}-{###}-{YYYY-MM-DD}.md`) |
+| `cover-letters/` | Cover letters (format: `{company}-{###}-{YYYY-MM-DD}.md`) |
+| `applications/` | Application extras — why responses, supplemental docs |
 
 ### OpenCode Commands
 
