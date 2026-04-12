@@ -45,7 +45,7 @@ This repo runs across two machines. Changes that aren't committed and pushed are
 
 **This applies to ALL status changes** -- marking roles as SKIP, Discarded, Applied, or any other state. A status change that only exists in conversation memory is not a status change. If you told the user you updated the tracker, the file on disk must reflect that and the commit must exist.
 
-**Automated scans:** The batman wrapper script (`batman/wolverine-scan.sh`) handles commit/push after `claude -p` runs. But interactive sessions (you) must commit/push yourself.
+**Automated scans:** The wolverine-agent wrapper script (`wolverine-agent/wolverine-scan.sh`) handles commit/push after `claude -p` runs. But interactive sessions (you) must commit/push yourself.
 
 ## Update Check
 
