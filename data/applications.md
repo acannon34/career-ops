@@ -6,7 +6,7 @@
 | 2 | 2026-04-10 | OpenAI | Partner Director, Global Accenture Alliance | —/5 | Applied | ✅ | [002](reports/002-openai-2026-04-10.md) | |
 | 3 | 2026-04-10 | Anthropic | Partner Sales Manager, Systems Integrators | —/5 | Applied | ✅ | [003](jds/003-anthropic-si-2026-04-10.md) | |
 | 4 | 2026-04-08 | Anthropic | Head of Programmatic Outcomes — Partners | —/5 | Watching | ❌ | | Flagged high priority |
-| 5 | 2026-04-08 | Anthropic | Strategy & Operations, Enterprise Business Partner | —/5 | Watching | ❌ | | GTM/enterprise ops |
+| 5 | 2026-04-08 | Anthropic | Strategy & Operations, Enterprise Business Partner | —/5 | SKIP | ❌ | | Comp at/below current level; SQL + R required |
 | 6 | 2026-04-08 | xAI | Head of GTM - Systems & Agents | —/5 | Watching | ❌ | | GTM leadership |
 | 7 | 2026-04-08 | Scale AI | AI Strategy Consultant, Frontier Tech | —/5 | Watching | ❌ | | |
 | 8 | 2026-04-08 | Scale AI | GTM Architect | —/5 | Watching | ❌ | | |
