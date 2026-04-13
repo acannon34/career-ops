@@ -2,6 +2,8 @@
 
 | # | Fecha | Empresa | Rol | Score | Estado | PDF | Report | Notes |
 |---|-------|---------|-----|-------|--------|-----|--------|-------|
+| 21 | 2026-04-13 | Anthropic | Industry Principal, Insurance | 2.8/5 | SKIP | ❌ |  | Insurance domain hard blocker; requires 20+ yr insurance tech CTO/VP; AC has healthcare payer not P&C/Reinsurance; comp $360K-$550K is strong |
+| 22 | 2026-04-13 | Harvey | Head of Customer Success, Enterprise (Americas) | 2.6/5 | SKIP | ❌ |  | Legal tech domain gap; CS NRR/adoption metrics not AC's background; comp $276K-$325K below target; NYC hybrid |
 | 18 | 2026-04-13 | OpenAI | Head of Partner Enablement, AWS Cloud | 3.6/5 | Evaluated | ❌ | [018](reports/018-openai-partner-enablement-2026-04-13.md) | Below 4.0 threshold; strong enablement match but enablement ops not transformation leadership; SF hybrid; comp borderline |
 | 19 | 2026-04-13 | Harvey | Head of BizTech Program Management | 2.7/5 | SKIP | ❌ |  | IT PMO role (Salesforce/Workday/NetSuite); not AI-facing; comp $199K-$298K below target |
 | 20 | 2026-04-13 | Harvey | Head of BizTech Program Management (Remote) | 2.7/5 | SKIP | ❌ |  | Same role as #019, remote variant; IT PMO not AI-facing |
