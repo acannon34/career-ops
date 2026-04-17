@@ -2,6 +2,27 @@
 
 | # | Fecha | Empresa | Rol | Score | Estado | PDF | Report | Notes |
 |---|-------|---------|-----|-------|--------|-----|--------|-------|
+| 23 | 2026-04-16 | Anthropic | Art Director, Enterprise | 2.0/5 | SKIP | ❌ |  | Creative/brand design role, not transformation/AI leadership; requires art direction portfolio |
+| 24 | 2026-04-16 | Anthropic | Business Development Representative | 1.5/5 | SKIP | ❌ |  | BDR role, junior level, Seoul-based; excluded by min_level=Director |
+| 25 | 2026-04-16 | Anthropic | Copy Lead, Enterprise | 2.0/5 | SKIP | ❌ |  | Copywriting/editorial role, not AC's archetype |
+| 26 | 2026-04-16 | Anthropic | Customer Programs Manager, Customer Advisory Boards | 3.0/5 | SKIP | ❌ |  | Manager-level dup of Head of Customer Programs #027; below AC's Director+ floor |
+| 27 | 2026-04-16 | Anthropic | Head of Customer Programs | 3.3/5 | SKIP | ❌ |  | Customer Advisory Board/EBC/executive programs function; AC has no B2B enterprise marketing / customer programs background; $400K base strong but functional gap is hard |
+| 28 | 2026-04-16 | Anthropic | Head of Insurance & Business Risk | 2.5/5 | SKIP | ❌ |  | Corporate insurance role (D&O, cyber, tech E&O); AC has no broker/underwriter/captive experience; hard domain blocker |
+| 29 | 2026-04-16 | Anthropic | Revenue Strategy & Operations (Bangalore) | 2.0/5 | SKIP | ❌ |  | Bangalore-based; AC is US-only per constraints |
+| 30 | 2026-04-16 | Anthropic | Revenue Strategy & Operations Lead (Sydney) | 2.0/5 | SKIP | ❌ |  | Sydney-based; AC is US-only per constraints |
+| 31 | 2026-04-16 | OpenAI | Account Director, Federal Civilian | 2.8/5 | SKIP | ❌ |  | Requires 14+ yrs federal PaaS/SaaS sales with $2M+ ARR targets; AC has no federal sales cycle experience; DC hybrid |
+| 32 | 2026-04-16 | OpenAI | Account Director, Large Enterprise (FSI) | 2.0/5 | SKIP | ❌ |  | Singapore-based (AC is US-only); FSI vertical (AC excludes Financial Services per _profile.md) |
+| 33 | 2026-04-16 | OpenAI | Head of Strategic Sourcing - Services | 2.3/5 | SKIP | ❌ |  | Procurement/sourcing role (vendor management, contracts); AC has no procurement function experience |
+| 34 | 2026-04-16 | OpenAI | Partner Director, Global BCG Alliance | 4.6/5 | Evaluated | ✅ | [034](reports/034-openai-bcg-alliance-2026-04-16.md) | Strong alliance match; co-sell $150M proof, $17M/$14M P&Ls, multi-partner orchestration; Telegram alerted |
+| 35 | 2026-04-16 | OpenAI | Partner Director, Global McKinsey Alliance | 4.7/5 | Evaluated | ✅ | [035](reports/035-openai-mckinsey-alliance-2026-04-16.md) | Top match; prior McKinsey alliance history on CA vaccine platform is a unique edge; Telegram alerted |
+| 36 | 2026-04-16 | Harvey | Business Development Lead, Cloud & AI (NY) | 3.6/5 | Evaluated | ❌ | [036](reports/036-harvey-bdl-cloud-ai-ny-2026-04-16.md) | Below 4.0 threshold; strong alliance fit but no AWS/Azure ISV-program history; OTE $240-360K below AC's $300K base floor; legal-tech domain adjacent |
+| 37 | 2026-04-16 | Harvey | Business Development Lead, Cloud & AI (Seattle) | 3.6/5 | Evaluated | ❌ | [037](reports/037-harvey-bdl-cloud-ai-seattle-2026-04-16.md) | Below 4.0 threshold; same as #036 NY variant; Seattle offers marginal AWS/Microsoft HQ proximity advantage |
+| 38 | 2026-04-16 | Harvey | GTM Systems Admin, Growth | 1.8/5 | SKIP | ❌ |  | Salesforce/HubSpot admin IC role; below AC's Director+ floor |
+| 39 | 2026-04-16 | Harvey | GTM Systems Admin (Support), Remote (US) | 1.8/5 | SKIP | ❌ |  | Support-tier admin IC role; below AC's Director+ floor |
+| 40 | 2026-04-16 | Harvey | Head of Web (SF) | 2.0/5 | SKIP | ❌ |  | Web design/marketing site leadership; not AC's transformation archetype |
+| 41 | 2026-04-16 | Harvey | Head of Web (NYC) | 2.0/5 | SKIP | ❌ |  | Web design/marketing site leadership; not AC's transformation archetype |
+| 42 | 2026-04-16 | Mistral | Applied AI, Forward Deployed Machine Learning Engineer | 2.6/5 | SKIP | ❌ |  | Engineer-level IC role; AC excludes "Engineer" per constraints; requires hands-on ML deployment at IC level |
+| 43 | 2026-04-16 | Mistral | Product Manager, Cloud Partnerships | 3.1/5 | SKIP | ❌ |  | PM role with 7+ yrs PM experience required, Microsoft hyperscaler preferred; AC is not a PM and has no hyperscaler ISV program depth; NYC office required |
 | 21 | 2026-04-13 | Anthropic | Industry Principal, Insurance | 2.8/5 | SKIP | ❌ |  | Insurance domain hard blocker; requires 20+ yr insurance tech CTO/VP; AC has healthcare payer not P&C/Reinsurance; comp $360K-$550K is strong |
 | 22 | 2026-04-13 | Harvey | Head of Customer Success, Enterprise (Americas) | 2.6/5 | SKIP | ❌ |  | Legal tech domain gap; CS NRR/adoption metrics not AC's background; comp $276K-$325K below target; NYC hybrid |
 | 18 | 2026-04-13 | OpenAI | Head of Partner Enablement, AWS Cloud | 3.6/5 | Evaluated | ❌ | [018](reports/018-openai-partner-enablement-2026-04-13.md) | Below 4.0 threshold; strong enablement match but enablement ops not transformation leadership; SF hybrid; comp borderline |
