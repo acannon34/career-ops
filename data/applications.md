@@ -2,6 +2,28 @@
 
 | # | Fecha | Empresa | Rol | Score | Estado | PDF | Report | Notes |
 |---|-------|---------|-----|-------|--------|-----|--------|-------|
+| 45 | 2026-04-17 | Glean | Enterprise Account Executive | 2.0/5 | SKIP | ❌ |  | SF AE role; below Director+ floor |
+| 46 | 2026-04-17 | Glean | Enterprise Account Executive, Atlanta | 2.0/5 | SKIP | ❌ |  | AE level; below Director+ floor |
+| 47 | 2026-04-17 | Glean | Enterprise Account Executive, Benelux | 1.5/5 | SKIP | ❌ |  | Amsterdam AE; non-US |
+| 48 | 2026-04-17 | Glean | Enterprise Account Executive, Canada | 1.5/5 | SKIP | ❌ |  | Canada AE; US-only constraint |
+| 49 | 2026-04-17 | Glean | Enterprise Account Executive, Charlotte | 2.0/5 | SKIP | ❌ |  | AE level; below Director+ floor |
+| 50 | 2026-04-17 | Glean | Enterprise Account Executive, DACH | 1.5/5 | SKIP | ❌ |  | Germany AE; non-US |
+| 51 | 2026-04-17 | Glean | Enterprise Account Executive, Italy | 1.5/5 | SKIP | ❌ |  | Italy AE; non-US |
+| 52 | 2026-04-17 | Glean | Enterprise Account Executive, Japan | 1.5/5 | SKIP | ❌ |  | Japan AE; non-US |
+| 53 | 2026-04-17 | Glean | Enterprise Account Executive, LATAM | 1.5/5 | SKIP | ❌ |  | Brazil AE; non-US |
+| 54 | 2026-04-17 | Glean | Enterprise Account Executive, Mid-Atlantic | 2.0/5 | SKIP | ❌ |  | Remote US AE; below Director+ floor |
+| 55 | 2026-04-17 | Glean | Enterprise Account Executive, Nordics | 1.5/5 | SKIP | ❌ |  | Sweden AE; non-US |
+| 56 | 2026-04-17 | Glean | Enterprise Account Executive, North Central | 2.0/5 | SKIP | ❌ |  | Remote US AE; below Director+ floor |
+| 57 | 2026-04-17 | Glean | Enterprise Account Executive, NYC | 2.0/5 | SKIP | ❌ |  | NYC AE; below Director+ floor |
+| 58 | 2026-04-17 | Glean | Enterprise Account Executive, Ohio Valley | 2.0/5 | SKIP | ❌ |  | Remote US AE; below Director+ floor |
+| 59 | 2026-04-17 | Glean | Enterprise Account Executive, Singapore | 1.5/5 | SKIP | ❌ |  | Singapore AE; non-US |
+| 60 | 2026-04-17 | Glean | Enterprise Account Executive, UKI | 1.5/5 | SKIP | ❌ |  | UK AE; non-US |
+| 61 | 2026-04-17 | Glean | GTM Onboarding & Readiness Manager | 2.3/5 | SKIP | ❌ |  | Sales enablement Manager role; below AC's Director+ floor |
+| 62 | 2026-04-17 | Glean | GTM Strategic Finance Manager | 2.0/5 | SKIP | ❌ |  | Finance Manager role; not AC's archetype |
+| 63 | 2026-04-17 | Glean | Head of Field Marketing, Japan | 1.5/5 | SKIP | ❌ |  | Japan-based marketing role; non-US |
+| 64 | 2026-04-17 | Glean | Private Equity Partnerships Manager | 3.0/5 | SKIP | ❌ |  | Manager level + no PE sponsor/economics experience; hard domain gap |
+| 65 | 2026-04-17 | Glean | Regional Vice President, San Francisco | 3.0/5 | SKIP | ❌ |  | VP sales leadership role; AC has no formal AE team leadership or MEDDIC/Challenger background |
+| 66 | 2026-04-17 | Glean | Regional Vice President, (Strategics) Northeast | 3.1/5 | SKIP | ❌ |  | VP strategic accounts sales; no AE team leadership experience; strong enterprise AI angle insufficient |
 | 23 | 2026-04-16 | Anthropic | Art Director, Enterprise | 2.0/5 | SKIP | ❌ |  | Creative/brand design role, not transformation/AI leadership; requires art direction portfolio |
 | 24 | 2026-04-16 | Anthropic | Business Development Representative | 1.5/5 | SKIP | ❌ |  | BDR role, junior level, Seoul-based; excluded by min_level=Director |
 | 25 | 2026-04-16 | Anthropic | Copy Lead, Enterprise | 2.0/5 | SKIP | ❌ |  | Copywriting/editorial role, not AC's archetype |
