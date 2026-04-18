@@ -2,6 +2,9 @@
 
 | # | Fecha | Empresa | Rol | Score | Estado | PDF | Report | Notes |
 |---|-------|---------|-----|-------|--------|-----|--------|-------|
+| 67 | 2026-04-18 | Anthropic | Global Leader, Applied AI Architects, Beneficial Deployments | 4.3/5 | Evaluated | ✅ | [067](reports/067-anthropic-global-leader-applied-ai-2026-04-18.md) | Strong SA+FDE match; 5 production AI platforms, 9K practice leadership, mission-driven depth (Oracle 180 countries, CA vaccine multi-partner, $50M payer); base $315K-$380K clears target; Telegram alerted |
+| 69 | 2026-04-18 | Anthropic | Solutions Architect, Applied AI (Commercial) | 3.0/5 | SKIP | ❌ |  | Strong archetype match but IC level (3+ years); AC excludes "Engineer" / IC per config; base $240K-$315K below target; keep for positioning reference |
+| 70 | 2026-04-18 | Anthropic | Finance & Strategy, GTM | 2.3/5 | SKIP | ❌ |  | Strategic Finance IC role (7+ yrs PE/VC/IB/consulting financial modeling); AC has no FP&A / strategic finance background; comp $235K-$310K below target |
 | 45 | 2026-04-17 | Glean | Enterprise Account Executive | 2.0/5 | SKIP | ❌ |  | SF AE role; below Director+ floor |
 | 46 | 2026-04-17 | Glean | Enterprise Account Executive, Atlanta | 2.0/5 | SKIP | ❌ |  | AE level; below Director+ floor |
 | 47 | 2026-04-17 | Glean | Enterprise Account Executive, Benelux | 1.5/5 | SKIP | ❌ |  | Amsterdam AE; non-US |
@@ -31,7 +34,7 @@
 | 27 | 2026-04-16 | Anthropic | Head of Customer Programs | 3.3/5 | SKIP | ❌ |  | Customer Advisory Board/EBC/executive programs function; AC has no B2B enterprise marketing / customer programs background; $400K base strong but functional gap is hard |
 | 28 | 2026-04-16 | Anthropic | Head of Insurance & Business Risk | 2.5/5 | SKIP | ❌ |  | Corporate insurance role (D&O, cyber, tech E&O); AC has no broker/underwriter/captive experience; hard domain blocker |
 | 29 | 2026-04-16 | Anthropic | Revenue Strategy & Operations (Bangalore) | 2.0/5 | SKIP | ❌ |  | Bangalore-based; AC is US-only per constraints |
-| 30 | 2026-04-16 | Anthropic | Revenue Strategy & Operations Lead (Sydney) | 2.0/5 | SKIP | ❌ |  | Sydney-based; AC is US-only per constraints |
+| 30 | 2026-04-18 | Anthropic | Sales Strategy & Operational Excellence Lead | 3.2/5 | SKIP | ❌ |  | Re-eval 2026-04-18 (2→3.2). Chief of Staff to CCO / RevOps mechanics role; AC has $75M PMO proof but not sales ops specifics (forecast methodology, quota deployment, territory planning); comp placeholder $1-$2 on posting |
 | 31 | 2026-04-16 | OpenAI | Account Director, Federal Civilian | 2.8/5 | SKIP | ❌ |  | Requires 14+ yrs federal PaaS/SaaS sales with $2M+ ARR targets; AC has no federal sales cycle experience; DC hybrid |
 | 32 | 2026-04-16 | OpenAI | Account Director, Large Enterprise (FSI) | 2.0/5 | SKIP | ❌ |  | Singapore-based (AC is US-only); FSI vertical (AC excludes Financial Services per _profile.md) |
 | 33 | 2026-04-16 | OpenAI | Head of Strategic Sourcing - Services | 2.3/5 | SKIP | ❌ |  | Procurement/sourcing role (vendor management, contracts); AC has no procurement function experience |
