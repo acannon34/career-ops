@@ -2,6 +2,7 @@
 
 | # | Fecha | Empresa | Rol | Score | Estado | PDF | Report | Notes |
 |---|-------|---------|-----|-------|--------|-----|--------|-------|
+| 71 | 2026-04-20 | OpenAI | Head of EMEA Product Partnerships | 2.5/5 | SKIP | ❌ |  | EMEA-based (Munich/London/Dublin/Paris hybrid 3 days/week); AC is US-only per constraints — hard location blocker; strong partnerships archetype match but location disqualifies |
 | 67 | 2026-04-18 | Anthropic | Global Leader, Applied AI Architects, Beneficial Deployments | 4.3/5 | Evaluated | ✅ | [067](reports/067-anthropic-global-leader-applied-ai-2026-04-18.md) | Strong SA+FDE match; 5 production AI platforms, 9K practice leadership, mission-driven depth (Oracle 180 countries, CA vaccine multi-partner, $50M payer); base $315K-$380K clears target; Telegram alerted |
 | 69 | 2026-04-18 | Anthropic | Solutions Architect, Applied AI (Commercial) | 3.0/5 | SKIP | ❌ |  | Strong archetype match but IC level (3+ years); AC excludes "Engineer" / IC per config; base $240K-$315K below target; keep for positioning reference |
 | 70 | 2026-04-18 | Anthropic | Finance & Strategy, GTM | 2.3/5 | SKIP | ❌ |  | Strategic Finance IC role (7+ yrs PE/VC/IB/consulting financial modeling); AC has no FP&A / strategic finance background; comp $235K-$310K below target |
