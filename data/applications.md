@@ -2,6 +2,11 @@
 
 | # | Fecha | Empresa | Rol | Score | Estado | PDF | Report | Notes |
 |---|-------|---------|-----|-------|--------|-----|--------|-------|
+| 82 | 2026-04-22 | Anthropic | Head of Portfolio Marketing | 2.5/5 | SKIP | ❌ |  | Marketing leadership role; AC's profile is transformation/GTM, not portfolio marketing |
+| 83 | 2026-04-22 | OpenAI | Customer Marketing Manager, Enterprise and Digital Natives | 2.2/5 | SKIP | ❌ |  | Marketing Manager (IC); marketing not AC's profile; below Director |
+| 84 | 2026-04-22 | OpenAI | Customer Success Manager, Ads Solutions | 2.0/5 | SKIP | ❌ |  | CSM IC level; Ads domain not AC's; London location conflict |
+| 85 | 2026-04-22 | OpenAI | Customer Success Manager, Ads Solutions | 2.0/5 | SKIP | ❌ |  | CSM IC level; Ads domain not AC's; Tokyo location conflict |
+| 86 | 2026-04-22 | OpenAI | Director, Compute Finance FP&A | 2.2/5 | SKIP | ❌ |  | Director level but pure FP&A/compute finance; AC has no CFO-office background |
 | 71 | 2026-04-20 | OpenAI | Head of EMEA Product Partnerships | 2.5/5 | SKIP | ❌ |  | EMEA-based (Munich/London/Dublin/Paris hybrid 3 days/week); AC is US-only per constraints — hard location blocker; strong partnerships archetype match but location disqualifies |
 | 67 | 2026-04-18 | Anthropic | Global Leader, Applied AI Architects, Beneficial Deployments | 4.3/5 | Evaluated | ✅ | [067](reports/067-anthropic-global-leader-applied-ai-2026-04-18.md) | Strong SA+FDE match; 5 production AI platforms, 9K practice leadership, mission-driven depth (Oracle 180 countries, CA vaccine multi-partner, $50M payer); base $315K-$380K clears target; Telegram alerted |
 | 69 | 2026-04-18 | Anthropic | Solutions Architect, Applied AI (Commercial) | 3.0/5 | SKIP | ❌ |  | Strong archetype match but IC level (3+ years); AC excludes "Engineer" / IC per config; base $240K-$315K below target; keep for positioning reference |
@@ -34,7 +39,7 @@
 | 26 | 2026-04-16 | Anthropic | Customer Programs Manager, Customer Advisory Boards | 3.0/5 | SKIP | ❌ |  | Manager-level dup of Head of Customer Programs #027; below AC's Director+ floor |
 | 27 | 2026-04-16 | Anthropic | Head of Customer Programs | 3.3/5 | SKIP | ❌ |  | Customer Advisory Board/EBC/executive programs function; AC has no B2B enterprise marketing / customer programs background; $400K base strong but functional gap is hard |
 | 28 | 2026-04-16 | Anthropic | Head of Insurance & Business Risk | 2.5/5 | SKIP | ❌ |  | Corporate insurance role (D&O, cyber, tech E&O); AC has no broker/underwriter/captive experience; hard domain blocker |
-| 29 | 2026-04-16 | Anthropic | Revenue Strategy & Operations (Bangalore) | 2.0/5 | SKIP | ❌ |  | Bangalore-based; AC is US-only per constraints |
+| 29 | 2026-04-22 | Anthropic | GTM Strategy & Operations, Activations Business Partner | 3.2/5 | SKIP | ❌ |  | Re-eval 2026-04-22 (2→3.2). IC 'Business Partner' level; overlap with tracker #5 which was SKIP; below Director min level |
 | 30 | 2026-04-18 | Anthropic | Sales Strategy & Operational Excellence Lead | 3.2/5 | SKIP | ❌ |  | Re-eval 2026-04-18 (2→3.2). Chief of Staff to CCO / RevOps mechanics role; AC has $75M PMO proof but not sales ops specifics (forecast methodology, quota deployment, territory planning); comp placeholder $1-$2 on posting |
 | 31 | 2026-04-16 | OpenAI | Account Director, Federal Civilian | 2.8/5 | SKIP | ❌ |  | Requires 14+ yrs federal PaaS/SaaS sales with $2M+ ARR targets; AC has no federal sales cycle experience; DC hybrid |
 | 32 | 2026-04-16 | OpenAI | Account Director, Large Enterprise (FSI) | 2.0/5 | SKIP | ❌ |  | Singapore-based (AC is US-only); FSI vertical (AC excludes Financial Services per _profile.md) |
