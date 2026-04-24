@@ -2,12 +2,20 @@
 
 | # | Fecha | Empresa | Rol | Score | Estado | PDF | Report | Notes |
 |---|-------|---------|-----|-------|--------|-----|--------|-------|
+| 88 | 2026-04-24 | xAI | Legal Director, X Payments | 1.5/5 | SKIP | ❌ |  | Attorney role; AC has no legal/regulatory payments background; hard domain blocker |
+| 89 | 2026-04-24 | OpenAI | Business Development Representative - APAC | 1.5/5 | SKIP | ❌ |  | BDR launchpad role + Singapore non-US; excluded by min_level=Director and us_only |
+| 87 | 2026-04-24 | Anthropic | Applied AI Architect (Public Sector) | 1.8/5 | SKIP | ❌ |  | London, UK; non-US hard blocker per constraints (us_only); distinct from #67 (this is UK Central Govt pre-sales architect, not Beneficial Deployments leadership) |
+| 93 | 2026-04-24 | Harvey | Operations Lead, Strategy (SF) | 3.6/5 | Evaluated | ❌ | [093](reports/093-harvey-operations-lead-strategy-sf-2026-04-24.md) | Below 4.0; Chief of Staff + operating cadence match but legal-ecosystem + banking/PE gap (~40% of CSO remit); SF hybrid; base $236-355K clears only top of range |
+| 94 | 2026-04-24 | Harvey | Operations Lead, Strategy (NY) | 3.6/5 | Evaluated | ❌ | [094](reports/094-harvey-operations-lead-strategy-ny-2026-04-24.md) | Below 4.0; NY variant of #093 with marginal legal-ecosystem proximity edge; same legal + FS gaps apply |
+| 97 | 2026-04-24 | Mistral | Head of Communications, APAC | 2.0/5 | SKIP | ❌ |  | Communications leadership + Singapore non-US; AC's archetype is transformation/GTM, not PR/comms; hard location + domain blocker |
 | 82 | 2026-04-22 | Anthropic | Head of Portfolio Marketing | 2.5/5 | SKIP | ❌ |  | Marketing leadership role; AC's profile is transformation/GTM, not portfolio marketing |
 | 83 | 2026-04-22 | OpenAI | Customer Marketing Manager, Enterprise and Digital Natives | 2.2/5 | SKIP | ❌ |  | Marketing Manager (IC); marketing not AC's profile; below Director |
+| 91 | 2026-04-24 | OpenAI | Enterprise Product Manager - AI Solutions | 3.2/5 | SKIP | ❌ |  | IC Product Manager role (excluded by min_level=Director); comp $260K-$288K below AC's $300K base floor; strong AI Solutions angle + Oracle Fusion match but IC label is hard blocker |
 | 84 | 2026-04-22 | OpenAI | Customer Success Manager, Ads Solutions | 2.0/5 | SKIP | ❌ |  | CSM IC level; Ads domain not AC's; London location conflict |
 | 85 | 2026-04-22 | OpenAI | Customer Success Manager, Ads Solutions | 2.0/5 | SKIP | ❌ |  | CSM IC level; Ads domain not AC's; Tokyo location conflict |
 | 86 | 2026-04-22 | OpenAI | Director, Compute Finance FP&A | 2.2/5 | SKIP | ❌ |  | Director level but pure FP&A/compute finance; AC has no CFO-office background |
 | 71 | 2026-04-20 | OpenAI | Head of EMEA Product Partnerships | 2.5/5 | SKIP | ❌ |  | EMEA-based (Munich/London/Dublin/Paris hybrid 3 days/week); AC is US-only per constraints — hard location blocker; strong partnerships archetype match but location disqualifies |
+| 92 | 2026-04-24 | OpenAI | Head of Growth Partnerships | 4.1/5 | Evaluated | ✅ | [092](reports/092-openai-head-growth-partnerships-2026-04-24.md) | Strong partnerships + GTM match; $150M co-sell proof, $17M/$14M P&Ls, multi-partner CA vaccine orchestration; Remote-US $370K-$445K base clears target; Telegram alerted |
 | 67 | 2026-04-18 | Anthropic | Global Leader, Applied AI Architects, Beneficial Deployments | 4.3/5 | Evaluated | ✅ | [067](reports/067-anthropic-global-leader-applied-ai-2026-04-18.md) | Strong SA+FDE match; 5 production AI platforms, 9K practice leadership, mission-driven depth (Oracle 180 countries, CA vaccine multi-partner, $50M payer); base $315K-$380K clears target; Telegram alerted |
 | 69 | 2026-04-18 | Anthropic | Solutions Architect, Applied AI (Commercial) | 3.0/5 | SKIP | ❌ |  | Strong archetype match but IC level (3+ years); AC excludes "Engineer" / IC per config; base $240K-$315K below target; keep for positioning reference |
 | 70 | 2026-04-18 | Anthropic | Finance & Strategy, GTM | 2.3/5 | SKIP | ❌ |  | Strategic Finance IC role (7+ yrs PE/VC/IB/consulting financial modeling); AC has no FP&A / strategic finance background; comp $235K-$310K below target |
