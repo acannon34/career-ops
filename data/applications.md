@@ -2,9 +2,15 @@
 
 | # | Fecha | Empresa | Rol | Score | Estado | PDF | Report | Notes |
 |---|-------|---------|-----|-------|--------|-----|--------|-------|
+| 98 | 2026-04-25 | OpenAI | Head of Industries | 3.5/5 | Evaluated | ❌ | [098](reports/098-openai-head-of-industries-2026-04-25.md) | Below 4.0 threshold; strong healthcare regulated-industry depth + operating model authority but JD requires direct second-line sales leadership (multi-layer mgmt of senior sales leaders) which AC lacks; FSI exclude per profile applies; base $385-405K clears target |
+| 99 | 2026-04-25 | Anthropic | Head of Resilience Operations, Global Safety, Intelligence & Security | 2.5/5 | SKIP | ❌ |  | Security/safety operations leadership (physical/digital threat, GSOC, BCM); AC has no security or intelligence ops background; not transformation/GTM archetype |
+| 102 | 2026-04-25 | Glean | Enterprise Regional Director, Southeast | 3.1/5 | SKIP | ❌ |  | Front-line sales leader managing AEs; AC has no AE team leadership or MEDDIC/Challenger background (matches #65/#66 RVP precedent at 3.0-3.1) |
+| 103 | 2026-04-25 | Glean | Machine Learning Engineer, Enterprise Brain | 1.8/5 | SKIP | ❌ |  | ML Engineer IC role; AC excludes 'Engineer' per constraints; below Director+ floor |
+| 104 | 2026-04-25 | Cohere | Talent Acquisition Partner - G&A/GTM Recruiter | 1.5/5 | SKIP | ❌ |  | Recruiter role; not AC's archetype |
+| 106 | 2026-04-25 | Anthropic | Head of ANZ, Applied AI | 1.8/5 | SKIP | ❌ |  | Sydney Australia; AC us_only=true hard blocker; otherwise strong archetype match |
 | 88 | 2026-04-24 | xAI | Legal Director, X Payments | 1.5/5 | SKIP | ❌ |  | Attorney role; AC has no legal/regulatory payments background; hard domain blocker |
 | 89 | 2026-04-24 | OpenAI | Business Development Representative - APAC | 1.5/5 | SKIP | ❌ |  | BDR launchpad role + Singapore non-US; excluded by min_level=Director and us_only |
-| 87 | 2026-04-24 | Anthropic | Applied AI Architect (Public Sector) | 1.8/5 | SKIP | ❌ |  | London, UK; non-US hard blocker per constraints (us_only); distinct from #67 (this is UK Central Govt pre-sales architect, not Beneficial Deployments leadership) |
+| 87 | 2026-04-25 | Anthropic | Manager of Applied AI Architecture, Enterprise Tech (Cyber) | 2.8/5 | SKIP | ❌ |  | Re-eval 2026-04-25 (1.8→2.8). Manager-of-X (sub-Director) leadership role; Cyber vertical (security domain gap); AC has no cybersecurity background; below Director+ floor |
 | 93 | 2026-04-24 | Harvey | Operations Lead, Strategy (SF) | 3.6/5 | Evaluated | ❌ | [093](reports/093-harvey-operations-lead-strategy-sf-2026-04-24.md) | Below 4.0; Chief of Staff + operating cadence match but legal-ecosystem + banking/PE gap (~40% of CSO remit); SF hybrid; base $236-355K clears only top of range |
 | 94 | 2026-04-24 | Harvey | Operations Lead, Strategy (NY) | 3.6/5 | Evaluated | ❌ | [094](reports/094-harvey-operations-lead-strategy-ny-2026-04-24.md) | Below 4.0; NY variant of #093 with marginal legal-ecosystem proximity edge; same legal + FS gaps apply |
 | 97 | 2026-04-24 | Mistral | Head of Communications, APAC | 2.0/5 | SKIP | ❌ |  | Communications leadership + Singapore non-US; AC's archetype is transformation/GTM, not PR/comms; hard location + domain blocker |
