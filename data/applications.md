@@ -2,10 +2,14 @@
 
 | # | Fecha | Empresa | Rol | Score | Estado | PDF | Report | Notes |
 |---|-------|---------|-----|-------|--------|-----|--------|-------|
+| 186 | 2026-05-06 | Anthropic | GTM Engineer | 2.0/5 | SKIP | ❌ |  | Engineer/IC technical role building Claude-powered automations for top-of-funnel sales; AC excludes Engineer per constraints (no SWE depth) |
+| 187 | 2026-05-06 | Anthropic | Manager, Commercial Counsel, GTM | 1.5/5 | SKIP | ❌ |  | Legal counsel role requiring JD + state bar membership; AC has no legal background (matches #088 xAI Legal Director SKIP) |
+| 189 | 2026-05-06 | OpenAI | Art Director | 2.0/5 | SKIP | ❌ |  | Art Director (visual narratives, key visuals, video storyboards) — creative/brand role; not AC's transformation/GTM archetype (matches #082/#083 marketing precedent) |
+| 192 | 2026-05-06 | OpenAI | Partnerships Lead, Healthcare | 4.4/5 | Evaluated | ✅ | [192](reports/192-openai-partnerships-lead-healthcare-2026-05-06.md) | Strong healthcare + partnerships match; Aetna Business Director (15-person org, 150K+ contracts, 10+ states, CMS-regulated MA pricing) + $50M+ payer transformation + multi-partner CA vaccine (McKinsey/EY/BCBS) + $150M co-sell expansion; SF location (relo OK); base $333-370K clears target; Telegram alerted |
 | 183 | 2026-05-02 | OpenAI | Head of People Science and Operations | 1.5/5 | SKIP | ❌ |  | HR/People role; not AC's transformation/GTM archetype |
 | 184 | 2026-05-02 | OpenAI | Head of Systems Operations | 2.0/5 | SKIP | ❌ |  | IT/procurement/ops role; not AC's transformation archetype |
 | 122 | 2026-05-02 | OpenAI | Applied AI Engineer, Codex Core Agent | 2.0/5 | SKIP | ❌ |  | Engineer/IC technical role; AC excludes Engineer per constraints (no SWE depth) |
-| 123 | 2026-05-02 | OpenAI | Creative Director, Brand Identity | 1.8/5 | SKIP | ❌ |  | Marketing/creative/EA role; not AC's transformation archetype |
+| 123 | 2026-05-06 | OpenAI | Creative Director | 2.0/5 | SKIP | ❌ |  | Re-eval 2026-05-06 (1.8→2). Creative Director (3D, motion, visual storytelling) — creative/brand role; not AC's transformation archetype (matches #123 OpenAI Creative Director Brand Identity SKIP) |
 | 128 | 2026-05-02 | OpenAI | Global Head of Benefits | 1.5/5 | SKIP | ❌ |  | HR/People role; not AC's transformation/GTM archetype |
 | 129 | 2026-05-02 | OpenAI | GTM Enablement Manager | 1.8/5 | SKIP | ❌ |  | Manager-level role; below AC's Director+ floor |
 | 133 | 2026-05-02 | OpenAI | Strategic Finance, B2B Strategy & Planning Lead | 2.0/5 | SKIP | ❌ |  | Re-eval 2026-05-02 (1.8→2). Finance/FP&A role; AC has no CFO-office or strategic finance background |
@@ -112,7 +116,7 @@
 | 43 | 2026-04-16 | Mistral | Product Manager, Cloud Partnerships | 3.1/5 | SKIP | ❌ |  | PM role with 7+ yrs PM experience required, Microsoft hyperscaler preferred; AC is not a PM and has no hyperscaler ISV program depth; NYC office required |
 | 21 | 2026-04-13 | Anthropic | Industry Principal, Insurance | 2.8/5 | SKIP | ❌ |  | Insurance domain hard blocker; requires 20+ yr insurance tech CTO/VP; AC has healthcare payer not P&C/Reinsurance; comp $360K-$550K is strong |
 | 22 | 2026-04-13 | Harvey | Head of Customer Success, Enterprise (Americas) | 2.6/5 | SKIP | ❌ |  | Legal tech domain gap; CS NRR/adoption metrics not AC's background; comp $276K-$325K below target; NYC hybrid |
-| 18 | 2026-04-13 | OpenAI | Head of Partner Enablement, AWS Cloud | 3.6/5 | Evaluated | ❌ | [018](reports/018-openai-partner-enablement-2026-04-13.md) | Below 4.0 threshold; strong enablement match but enablement ops not transformation leadership; SF hybrid; comp borderline |
+| 18 | 2026-05-06 | OpenAI | GTM Partnerships Enablement Lead | 3.8/5 | Evaluated | ❌ | [191](reports/191-openai-gtm-partnerships-enablement-lead-2026-05-06.md) | Re-eval 2026-05-06 (3.6→3.8). Below 4.0 threshold; strong enablement-at-scale match (9K practice + 5K analysts + 600+ AI community + GPO bootcamp model) but base $270-300K barely meets AC $300K target floor; SF hybrid; matches #018 OpenAI Partner Enablement AWS pattern at 3.6/5 |
 | 19 | 2026-04-13 | Harvey | Head of BizTech Program Management | 2.7/5 | SKIP | ❌ |  | IT PMO role (Salesforce/Workday/NetSuite); not AI-facing; comp $199K-$298K below target |
 | 20 | 2026-04-13 | Harvey | Head of BizTech Program Management (Remote) | 2.7/5 | SKIP | ❌ |  | Same role as #019, remote variant; IT PMO not AI-facing |
 | 1 | 2026-04-08 | Anthropic | Manager, Applied AI SA - Partnerships | 4.3/5 | Evaluated | ✅ | [001](reports/001-anthropic-2026-04-08.md) | |
