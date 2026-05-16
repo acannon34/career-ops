@@ -2,6 +2,8 @@
 
 | # | Fecha | Empresa | Rol | Score | Estado | PDF | Report | Notes |
 |---|-------|---------|-----|-------|--------|-----|--------|-------|
+| 227 | 2026-05-16 | Scale AI | Head of Global Assurance | 1.8/5 | SKIP | ❌ |  | Cybersecurity GRC/compliance leader (FedRAMP/NIST/SOC2/ISO 27001); requires active US security clearance (SCI eligible) hard blocker; AC has no GRC/security compliance background (matches #99 Anthropic Resilience and #118 OpenAI Security Strategy SKIPs); DC location |
+| 236 | 2026-05-16 | Perplexity | Design Director, Brand & Marketing | 2.0/5 | SKIP | ❌ |  | Design/brand/marketing director role; not AC's transformation archetype (matches #023/#189 Art Director SKIP precedent) |
 | 214 | 2026-05-02 | OpenAI | Head of SaaS Enablement & Governance | 2.0/5 | SKIP | ❌ |  | IT/procurement/ops role; not AC's transformation archetype |
 | 215 | 2026-05-15 | OpenAI | Head of Measurement & Performance Intelligence | 2.3/5 | SKIP | ❌ |  | Infra/compute performance engineering leader; not AC's GTM/transformation archetype |
 | 216 | 2026-05-15 | OpenAI | Manager, Third-Party Risk Management (GTM) | 2.0/5 | SKIP | ❌ |  | Manager-level KYC/sanctions screening operations; AC excludes Manager titles |
