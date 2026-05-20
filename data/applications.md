@@ -2,14 +2,18 @@
 
 | # | Fecha | Empresa | Rol | Score | Estado | PDF | Report | Notes |
 |---|-------|---------|-----|-------|--------|-----|--------|-------|
+| 239 | 2026-05-20 | Anthropic | GTM Compensation Partner | 2.5/5 | SKIP | ❌ |  | Compensation/HR partner role — not AC archetype (no comp analytics / HR background) |
+| 242 | 2026-05-20 | OpenAI | Commercial Compute & Ecosystem Strategy | 2.5/5 | SKIP | ❌ |  | Infrastructure strategy role (data centers, hardware vendors, capacity planning); not AC enterprise AI transformation archetype |
+| 244 | 2026-05-20 | OpenAI | Principal Recruiter, Strategic AI Talent | 2.0/5 | SKIP | ❌ |  | Recruiter role — outside AC archetype |
+| 245 | 2026-05-20 | OpenAI | VC Partnerships Manager (London) | 2.0/5 | SKIP | ❌ |  | London location conflict + Manager title below Director floor |
 | 227 | 2026-05-16 | Scale AI | Head of Global Assurance | 1.8/5 | SKIP | ❌ |  | Cybersecurity GRC/compliance leader (FedRAMP/NIST/SOC2/ISO 27001); requires active US security clearance (SCI eligible) hard blocker; AC has no GRC/security compliance background (matches #99 Anthropic Resilience and #118 OpenAI Security Strategy SKIPs); DC location |
 | 236 | 2026-05-16 | Perplexity | Design Director, Brand & Marketing | 2.0/5 | SKIP | ❌ |  | Design/brand/marketing director role; not AC's transformation archetype (matches #023/#189 Art Director SKIP precedent) |
-| 214 | 2026-05-02 | OpenAI | Head of SaaS Enablement & Governance | 2.0/5 | SKIP | ❌ |  | IT/procurement/ops role; not AC's transformation archetype |
-| 215 | 2026-05-15 | OpenAI | Head of Measurement & Performance Intelligence | 2.3/5 | SKIP | ❌ |  | Infra/compute performance engineering leader; not AC's GTM/transformation archetype |
+| 214 | 2026-05-20 | Anthropic | Head of Partner Programs | 3.7/5 | SKIP | ❌ | [214](reports/214-anthropic-head-of-partner-programs-2026-05-20.md) | Re-eval 2026-05-20 (2→3.7). Below 4.0 threshold |
+| 215 | 2026-05-20 | Anthropic | Manager of Solutions Architecture, Applied AI (Enterprise Tech) | 3.6/5 | SKIP | ❌ | [215](reports/215-anthropic-manager-sa-applied-ai-enterprise-tech-2026-05-20.md) | Re-eval 2026-05-20 (2.3→3.6). Below 4.0 threshold |
 | 216 | 2026-05-15 | OpenAI | Manager, Third-Party Risk Management (GTM) | 2.0/5 | SKIP | ❌ |  | Manager-level KYC/sanctions screening operations; AC excludes Manager titles |
-| 218 | 2026-05-15 | Cohere | Director of People Operations | 1.8/5 | SKIP | ❌ |  | HR/People operations director (HRIS, comp, immigration ops); not AC's transformation archetype; Toronto |
+| 218 | 2026-05-20 | OpenAI | Director, Certifications | 3.7/5 | SKIP | ❌ | [218](reports/218-openai-director-certifications-2026-05-20.md) | Re-eval 2026-05-20 (1.8→3.7). Below 4.0 threshold |
 | 219 | 2026-05-15 | Harvey | Director, Corporate Systems (Chicago) | 2.4/5 | SKIP | ❌ |  | Workday/NetSuite/Zip systems leader inside BizTech; corporate IT not AI transformation |
-| 220 | 2026-05-15 | Harvey | Director, Corporate Systems (Dallas) | 2.4/5 | SKIP | ❌ |  | Workday/NetSuite/Zip systems leader inside BizTech; corporate IT not AI transformation; Dallas variant |
+| 220 | 2026-05-20 | OpenAI | Partner Director, AWS SI Partnership | 4.3/5 | Evaluated | ✅ | [220](reports/220-openai-partner-director-aws-si-partnership-2026-05-20.md) | Re-eval 2026-05-20 (2.4→4.3). Strong fit — Accenture insider angle on AWS SI practices; $150M co-sell motion; multi-partner CA vaccine orchestration; SF/NYC hybrid; matches #207/#208 GSI Partner Director pattern. Apply within 7 days. Telegram alerted (msg 164) |
 | 222 | 2026-05-15 | Harvey | Head of Product, Toronto | 2.2/5 | SKIP | ❌ |  | Senior PM generalist; AC excludes PM titles; Toronto location (AC US only) |
 | 223 | 2026-05-15 | Harvey | Senior Business Recruiter (GTM) | 1.5/5 | SKIP | ❌ |  | GTM recruiter IC role; below Director floor; Sydney location |
 | 203 | 2026-05-13 | Anthropic | Amazon GTM Partnership, Startups | 4.0/5 | Evaluated | ✅ | [203](reports/203-anthropic-amazon-gtm-partnership-startups-2026-05-13.md) | Strong hyperscaler alliance match; $150M co-sell expansion + multi-partner CA vaccine (McKinsey/EY/BCBS) + 9K-practice scale + Accenture-AWS insider + builder on Claude/MCP; OTE $300-355K just clears floor; SF/NYC/Seattle 25% in-office; Telegram alerted |
@@ -59,7 +63,7 @@
 | 178 | 2026-05-02 | Perplexity | Enterprise Customer Success Manager | 1.8/5 | SKIP | ❌ |  | Manager-level role; below AC's Director+ floor |
 | 179 | 2026-05-02 | Perplexity | Enterprise Customer Support Specialist | 1.5/5 | SKIP | ❌ |  | Support/generalist IC role; below Director+ floor |
 | 181 | 2026-05-02 | Perplexity | Member of Technical Staff (Forward Deployed Engineer, Applied AI) | 2.0/5 | SKIP | ❌ |  | Engineer/IC technical role; AC excludes Engineer per constraints (no SWE depth) |
-| 182 | 2026-05-02 | Perplexity | User Operations Generalist - Enterprise Billing & Product (Contract) | 1.5/5 | SKIP | ❌ |  | Support/generalist IC role; below Director+ floor |
+| 182 | 2026-05-20 | Perplexity | Sales Systems Engineer, Enterprise Operations | 2.5/5 | SKIP | ❌ |  | Re-eval 2026-05-20 (1.5→2.5). Sales SE/Engineer role — not AC archetype |
 | 108 | 2026-05-02 | Scale AI | Director of Product Management, Forward Deployed & Strategy | 3.7/5 | Evaluated | ❌ | [108](reports/108-scaleai-director-pm-forward-deployed-strategy-2026-05-02.md) | Below 4.0 threshold; strong FDE archetype + Fortune 100 / govt scope match but explicit "4+ years managing PM teams" is a true gap (AC led delivery teams/PMOs not formal PM org); SQL depth a softer gap |
 | 109 | 2026-05-02 | OpenAI | GTM Strategy & Operations Lead, Enterprise | 3.7/5 | Evaluated | ❌ | [109](reports/109-openai-gtm-strategy-operations-lead-enterprise-2026-05-02.md) | Below 4.0 threshold; consulting + PMO + operating cadences match but forecast/territory/quota mechanics + Salesforce/SQL specifics are explicit gaps (matches #30 pattern) |
 | 110 | 2026-05-02 | OpenAI | GTM Strategy & Growth Lead, API | 3.3/5 | SKIP | ❌ |  | Product strategy + pricing/packaging/monetization for API/developer business; AC has no PM background and no developer-platform GTM experience; SF hybrid 3 days |
