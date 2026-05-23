@@ -2,6 +2,7 @@
 
 | # | Fecha | Empresa | Rol | Score | Estado | PDF | Report | Notes |
 |---|-------|---------|-----|-------|--------|-----|--------|-------|
+| 252 | 2026-05-23 | OpenAI | GTM Readiness & Activation | 3.5/5 | Evaluated | ❌ | [252](reports/252-openai-gtm-readiness-activation-2026-05-23.md) | Below 4.0 threshold; strong enablement match but Manager level |
 | 246 | 2026-05-22 | Anthropic | Head of Anthropic Creative, Creative Studio | 1.5/5 | SKIP | ❌ |  | Creative leadership role (brand/design); off AC's enterprise AI transformation lane |
 | 247 | 2026-05-22 | Scale AI | Manager of Commercial Partnerships, Robotics | 1.5/5 | SKIP | ❌ |  | Mexico City location + Manager-level + robotics vertical; multiple blockers |
 | 248 | 2026-05-22 | OpenAI | GTM Cyber Security Leader | 2.4/5 | SKIP | ❌ |  | Second-line sales leader for cybersecurity; requires deep cyber sales pattern recognition AC lacks; comp $385-405K but domain blocker |
