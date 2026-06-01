@@ -2,6 +2,15 @@
 
 | # | Fecha | Empresa | Rol | Score | Estado | PDF | Report | Notes |
 |---|-------|---------|-----|-------|--------|-----|--------|-------|
+| 261 | 2026-06-01 | Anthropic | Data Scientist, GTM | 2.0/5 | SKIP | ❌ |  | Below 3.5 — IC data science, Python/SQL required |
+| 262 | 2026-06-01 | Anthropic | Head of Consolidations & Intercompany | 1.5/5 | SKIP | ❌ |  | Below 3.5 — accounting role, not relevant |
+| 263 | 2026-06-01 | Scale AI | AI Deployment Strategist, Enterprise | 3.3/5 | SKIP | ❌ |  | Below 3.5 — IC level, base $193-241K below floor |
+| 264 | 2026-06-01 | Scale AI | Business Development Representative | 1.0/5 | SKIP | ❌ |  | Below 3.5 — entry-level sales |
+| 265 | 2026-06-01 | Scale AI | Head of Policy & Security Research Lab | 2.0/5 | SKIP | ❌ |  | Below 3.5 — policy/research, not fit |
+| 266 | 2026-06-01 | Scale AI | Product Manager, Enterprise Core Platform | 2.5/5 | SKIP | ❌ |  | Below 3.5 — IC platform PM role |
+| 270 | 2026-06-01 | Cohere | RevOps GTM Systems Architect | 2.0/5 | SKIP | ❌ |  | Below 3.5 — IC systems engineering with Salesforce certs required |
+| 256 | 2026-06-01 | OpenAI | Director, AI Deployment Management | 4.2/5 | Evaluated | ✅ | [256](reports/256-openai-director-ai-deployment-management-2026-06-01.md) |  |
+| 257 | 2026-06-01 | Cohere | Head of Sales Enablement | 3.8/5 | Evaluated | ❌ | [257](reports/257-cohere-head-of-sales-enablement-2026-06-01.md) | Below 4.0 threshold — no direct sales-enablement function leadership |
 | 252 | 2026-05-23 | OpenAI | GTM Readiness & Activation | 3.5/5 | Evaluated | ❌ | [252](reports/252-openai-gtm-readiness-activation-2026-05-23.md) | Below 4.0 threshold; strong enablement match but Manager level |
 | 246 | 2026-05-22 | Anthropic | Head of Anthropic Creative, Creative Studio | 1.5/5 | SKIP | ❌ |  | Creative leadership role (brand/design); off AC's enterprise AI transformation lane |
 | 247 | 2026-05-22 | Scale AI | Manager of Commercial Partnerships, Robotics | 1.5/5 | SKIP | ❌ |  | Mexico City location + Manager-level + robotics vertical; multiple blockers |
@@ -49,7 +58,7 @@
 | 123 | 2026-05-06 | OpenAI | Creative Director | 2.0/5 | SKIP | ❌ |  | Re-eval 2026-05-06 (1.8→2). Creative Director (3D, motion, visual storytelling) — creative/brand role; not AC's transformation archetype (matches #123 OpenAI Creative Director Brand Identity SKIP) |
 | 128 | 2026-05-02 | OpenAI | Global Head of Benefits | 1.5/5 | SKIP | ❌ |  | HR/People role; not AC's transformation/GTM archetype |
 | 129 | 2026-05-02 | OpenAI | GTM Enablement Manager | 1.8/5 | SKIP | ❌ |  | Manager-level role; below AC's Director+ floor |
-| 133 | 2026-05-02 | OpenAI | Strategic Finance, B2B Strategy & Planning Lead | 2.0/5 | SKIP | ❌ |  | Re-eval 2026-05-02 (1.8→2). Finance/FP&A role; AC has no CFO-office or strategic finance background |
+| 133 | 2026-06-01 | OpenAI | Strategic Sourcing Leader, Go-to-Market | 2.3/5 | SKIP | ❌ |  | Re-eval 2026-06-01 (2→2.3). Below 3.5 — procurement-heavy, no AC procurement experience |
 | 136 | 2026-05-02 | OpenAI | Head of Data Center Delivery | 2.0/5 | SKIP | ❌ |  | IT/procurement/ops role; not AC's transformation archetype |
 | 137 | 2026-05-02 | OpenAI | Head of Demand Generation | 1.8/5 | SKIP | ❌ |  | Marketing/creative/EA role; not AC's transformation archetype |
 | 138 | 2026-05-02 | OpenAI | Head of Global Mobility and Immigration | 1.5/5 | SKIP | ❌ |  | HR/People role; not AC's transformation/GTM archetype |
@@ -132,7 +141,7 @@
 | 66 | 2026-04-17 | Glean | Regional Vice President, (Strategics) Northeast | 3.1/5 | SKIP | ❌ |  | VP strategic accounts sales; no AE team leadership experience; strong enterprise AI angle insufficient |
 | 23 | 2026-04-16 | Anthropic | Art Director, Enterprise | 2.0/5 | SKIP | ❌ |  | Creative/brand design role, not transformation/AI leadership; requires art direction portfolio |
 | 24 | 2026-04-16 | Anthropic | Business Development Representative | 1.5/5 | SKIP | ❌ |  | BDR role, junior level, Seoul-based; excluded by min_level=Director |
-| 25 | 2026-04-16 | Anthropic | Copy Lead, Enterprise | 2.0/5 | SKIP | ❌ |  | Copywriting/editorial role, not AC's archetype |
+| 25 | 2026-06-01 | Anthropic | Enterprise Community Lead | 3.7/5 | SKIP | ❌ | [253](reports/253-anthropic-enterprise-community-lead-2026-06-01.md) | Re-eval 2026-06-01 (2→3.7). Below 4.0 threshold — comp $320K flat below floor |
 | 26 | 2026-04-16 | Anthropic | Customer Programs Manager, Customer Advisory Boards | 3.0/5 | SKIP | ❌ |  | Manager-level dup of Head of Customer Programs #027; below AC's Director+ floor |
 | 27 | 2026-04-16 | Anthropic | Head of Customer Programs | 3.3/5 | SKIP | ❌ |  | Customer Advisory Board/EBC/executive programs function; AC has no B2B enterprise marketing / customer programs background; $400K base strong but functional gap is hard |
 | 28 | 2026-04-16 | Anthropic | Head of Insurance & Business Risk | 2.5/5 | SKIP | ❌ |  | Corporate insurance role (D&O, cyber, tech E&O); AC has no broker/underwriter/captive experience; hard domain blocker |
@@ -148,7 +157,7 @@
 | 38 | 2026-04-16 | Harvey | GTM Systems Admin, Growth | 1.8/5 | SKIP | ❌ |  | Salesforce/HubSpot admin IC role; below AC's Director+ floor |
 | 39 | 2026-05-15 | Harvey | Director, Corporate Systems (Remote) | 2.5/5 | SKIP | ❌ |  | Re-eval 2026-05-15 (1.8→2.5). Workday/NetSuite/Zip systems leader inside BizTech; corporate IT not AI transformation; Remote variant |
 | 40 | 2026-04-16 | Harvey | Head of Web (SF) | 2.0/5 | SKIP | ❌ |  | Web design/marketing site leadership; not AC's transformation archetype |
-| 41 | 2026-04-16 | Harvey | Head of Web (NYC) | 2.0/5 | SKIP | ❌ |  | Web design/marketing site leadership; not AC's transformation archetype |
+| 41 | 2026-06-01 | Harvey | Head of Product Operations (NYC) | 3.6/5 | SKIP | ❌ | [259](reports/259-harvey-head-of-product-operations-nyc-2026-06-01.md) | Re-eval 2026-06-01 (2→3.6). Below 4.0 threshold — duplicate of 258 (different location) |
 | 42 | 2026-04-16 | Mistral | Applied AI, Forward Deployed Machine Learning Engineer | 2.6/5 | SKIP | ❌ |  | Engineer-level IC role; AC excludes "Engineer" per constraints; requires hands-on ML deployment at IC level |
 | 43 | 2026-04-16 | Mistral | Product Manager, Cloud Partnerships | 3.1/5 | SKIP | ❌ |  | PM role with 7+ yrs PM experience required, Microsoft hyperscaler preferred; AC is not a PM and has no hyperscaler ISV program depth; NYC office required |
 | 21 | 2026-04-13 | Anthropic | Industry Principal, Insurance | 2.8/5 | SKIP | ❌ |  | Insurance domain hard blocker; requires 20+ yr insurance tech CTO/VP; AC has healthcare payer not P&C/Reinsurance; comp $360K-$550K is strong |
