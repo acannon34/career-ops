@@ -2,6 +2,8 @@
 
 | # | Fecha | Empresa | Rol | Score | Estado | PDF | Report | Notes |
 |---|-------|---------|-----|-------|--------|-----|--------|-------|
+| 289 | 2026-06-06 | Glean | Senior User Researcher, Enterprise & Platform — SF | 1.8/5 | SKIP | ❌ |  | UX/design research role for admin persona; not AC's transformation/GTM archetype; sits inside Design team |
+| 290 | 2026-06-06 | Glean | Senior User Researcher, Enterprise & Platform — Mountain View | 1.8/5 | SKIP | ❌ |  | Mountain View dup of 289; UX/design research role; not AC's archetype |
 | 273 | 2026-06-05 | OpenAI | Order Management & Billing Lead, AWS — SF | 2.0/5 | SKIP | ❌ |  | Order management/billing operations — outside AC's archetype |
 | 276 | 2026-06-05 | OpenAI | Strategic Hardware Partnerships — SF | 2.0/5 | SKIP | ❌ |  | Hardware partnerships focus — outside AC's AI transformation archetype |
 | 277 | 2026-06-05 | Harvey | Enterprise Account Executive — Singapore | 1.5/5 | SKIP | ❌ |  | Non-US (Singapore) and individual contributor sales role |
@@ -115,7 +117,7 @@
 | 94 | 2026-04-24 | Harvey | Operations Lead, Strategy (NY) | 3.6/5 | Evaluated | ❌ | [094](reports/094-harvey-operations-lead-strategy-ny-2026-04-24.md) | Below 4.0; NY variant of #093 with marginal legal-ecosystem proximity edge; same legal + FS gaps apply |
 | 97 | 2026-04-24 | Mistral | Head of Communications, APAC | 2.0/5 | SKIP | ❌ |  | Communications leadership + Singapore non-US; AC's archetype is transformation/GTM, not PR/comms; hard location + domain blocker |
 | 82 | 2026-04-22 | Anthropic | Head of Portfolio Marketing | 2.5/5 | SKIP | ❌ |  | Marketing leadership role; AC's profile is transformation/GTM, not portfolio marketing |
-| 83 | 2026-04-22 | OpenAI | Customer Marketing Manager, Enterprise and Digital Natives | 2.2/5 | SKIP | ❌ |  | Marketing Manager (IC); marketing not AC's profile; below Director |
+| 83 | 2026-06-06 | OpenAI | Enterprise Relationship Manager, Customer Marketing — SF | 3.0/5 | SKIP | ❌ |  | Re-eval 2026-06-06 (2.2→3). Customer advocacy/exec-customer-programs IC role; matches #027 Anthropic Head of Customer Programs (3.3) SKIP precedent — AC has no B2B customer marketing/advocacy function background; comp $266-295K below $300K base floor; SF 3 days/wk |
 | 91 | 2026-04-24 | OpenAI | Enterprise Product Manager - AI Solutions | 3.2/5 | SKIP | ❌ |  | IC Product Manager role (excluded by min_level=Director); comp $260K-$288K below AC's $300K base floor; strong AI Solutions angle + Oracle Fusion match but IC label is hard blocker |
 | 84 | 2026-04-22 | OpenAI | Customer Success Manager, Ads Solutions | 2.0/5 | SKIP | ❌ |  | CSM IC level; Ads domain not AC's; London location conflict |
 | 85 | 2026-04-22 | OpenAI | Customer Success Manager, Ads Solutions | 2.0/5 | SKIP | ❌ |  | CSM IC level; Ads domain not AC's; Tokyo location conflict |
