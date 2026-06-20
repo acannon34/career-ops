@@ -2,6 +2,15 @@
 
 | # | Fecha | Empresa | Rol | Score | Estado | PDF | Report | Notes |
 |---|-------|---------|-----|-------|--------|-----|--------|-------|
+| 298 | 2026-06-19 | Anthropic | Head of Investments & Liquidity | 2.0/5 | SKIP | ❌ |  | Treasury/finance role; no AC background |
+| 299 | 2026-06-19 | Anthropic | Head of Social Communications | 2.0/5 | SKIP | ❌ |  | Comms/marketing leadership; off AC transformation archetype |
+| 301 | 2026-06-19 | Anthropic | Product Manager, GTM Experiences | 2.5/5 | SKIP | ❌ |  | PM role; AC excludes PM titles |
+| 302 | 2026-06-19 | Anthropic | Tax Principal, Business Advisory | 1.5/5 | SKIP | ❌ |  | Tax/finance advisory; no AC background |
+| 307 | 2026-06-19 | Mistral | Technical Support Engineer, Enterprise | 1.5/5 | SKIP | ❌ |  | Engineer IC + non-US (Singapore); AC excludes Engineer |
+| 320 | 2026-06-19 | OpenAI | Enterprise Application Data Architect, GTM Systems | 2.3/5 | SKIP | ❌ |  | Data/systems architect IC technical; not AC transformation archetype |
+| 323 | 2026-06-19 | OpenAI | Supply Chain Transformation Architect | 2.5/5 | SKIP | ❌ |  | Hardware/physical supply chain domain blocker (10+ yrs SC ops, ERP/S&OP, electronics/robotics); AC no supply chain background |
+| 324 | 2026-06-19 | Cohere | Director of Product, North | 1.8/5 | SKIP | ❌ |  | Non-US (Toronto) + PM role; AC excludes PM |
+| 326 | 2026-06-19 | Cohere | RevOps - Compensation & GTM Integration | 2.5/5 | SKIP | ❌ |  | RevOps comp IC; sales-ops mechanics gap (precedent #113) |
 | 289 | 2026-06-06 | Glean | Senior User Researcher, Enterprise & Platform — SF | 1.8/5 | SKIP | ❌ |  | UX/design research role for admin persona; not AC's transformation/GTM archetype; sits inside Design team |
 | 290 | 2026-06-06 | Glean | Senior User Researcher, Enterprise & Platform — Mountain View | 1.8/5 | SKIP | ❌ |  | Mountain View dup of 289; UX/design research role; not AC's archetype |
 | 273 | 2026-06-05 | OpenAI | Order Management & Billing Lead, AWS — SF | 2.0/5 | SKIP | ❌ |  | Order management/billing operations — outside AC's archetype |
@@ -24,7 +33,7 @@
 | 252 | 2026-05-23 | OpenAI | GTM Readiness & Activation | 3.5/5 | Evaluated | ❌ | [252](reports/252-openai-gtm-readiness-activation-2026-05-23.md) | Below 4.0 threshold; strong enablement match but Manager level |
 | 246 | 2026-05-22 | Anthropic | Head of Anthropic Creative, Creative Studio | 1.5/5 | SKIP | ❌ |  | Creative leadership role (brand/design); off AC's enterprise AI transformation lane |
 | 247 | 2026-05-22 | Scale AI | Manager of Commercial Partnerships, Robotics | 1.5/5 | SKIP | ❌ |  | Mexico City location + Manager-level + robotics vertical; multiple blockers |
-| 248 | 2026-05-22 | OpenAI | GTM Cyber Security Leader | 2.4/5 | SKIP | ❌ |  | Second-line sales leader for cybersecurity; requires deep cyber sales pattern recognition AC lacks; comp $385-405K but domain blocker |
+| 248 | 2026-06-19 | OpenAI | Business Development Lead - Cyber | 2.5/5 | SKIP | ❌ |  | Re-eval 2026-06-19 (2.4→2.5). Cyber BD domain blocker (precedent #248 cyber 2.4) |
 | 249 | 2026-05-22 | OpenAI | Head of GTM Enablement | 3.9/5 | Evaluated | ❌ | [233](reports/233-openai-head-of-gtm-enablement-2026-05-22.md) | Below 4.0 threshold |
 | 250 | 2026-05-22 | Cohere | Editorial Director | 1.5/5 | SKIP | ❌ |  | Editorial leadership (content/comms) + Toronto location; off-profile |
 | 251 | 2026-05-22 | Cohere | Head of Brand Marketing | 1.5/5 | SKIP | ❌ |  | Brand marketing leadership + Toronto location; off-profile |
@@ -40,11 +49,11 @@
 | 218 | 2026-05-20 | OpenAI | Director, Certifications | 3.7/5 | SKIP | ❌ | [218](reports/218-openai-director-certifications-2026-05-20.md) | Re-eval 2026-05-20 (1.8→3.7). Below 4.0 threshold |
 | 219 | 2026-05-15 | Harvey | Director, Corporate Systems (Chicago) | 2.4/5 | SKIP | ❌ |  | Workday/NetSuite/Zip systems leader inside BizTech; corporate IT not AI transformation |
 | 220 | 2026-05-20 | OpenAI | Partner Director, AWS SI Partnership | 4.3/5 | Evaluated | ✅ | [220](reports/220-openai-partner-director-aws-si-partnership-2026-05-20.md) | Re-eval 2026-05-20 (2.4→4.3). Strong fit — Accenture insider angle on AWS SI practices; $150M co-sell motion; multi-partner CA vaccine orchestration; SF/NYC hybrid; matches #207/#208 GSI Partner Director pattern. Apply within 7 days. Telegram alerted (msg 164) |
-| 222 | 2026-05-22 | Anthropic | Beneficial Deployments Customer Success Manager, Scaled Partnerships | 3.0/5 | SKIP | ❌ |  | Re-eval 2026-05-22 (2.2→3). Scaled CSM role for nonprofit cohort; strong mission alignment but CSM IC level below AC Director+ target |
+| 222 | 2026-06-19 | Anthropic | Manager, Startup Partnerships | 3.2/5 | SKIP | ❌ |  | Re-eval 2026-06-19 (3→3.2). Manager below Director floor; startup GTM sales-pipeline focus; partnerships archetype but level+segment cap |
 | 223 | 2026-05-15 | Harvey | Senior Business Recruiter (GTM) | 1.5/5 | SKIP | ❌ |  | GTM recruiter IC role; below Director floor; Sydney location |
 | 203 | 2026-05-13 | Anthropic | Amazon GTM Partnership, Startups | 4.0/5 | Evaluated | ✅ | [203](reports/203-anthropic-amazon-gtm-partnership-startups-2026-05-13.md) | Strong hyperscaler alliance match; $150M co-sell expansion + multi-partner CA vaccine (McKinsey/EY/BCBS) + 9K-practice scale + Accenture-AWS insider + builder on Claude/MCP; OTE $300-355K just clears floor; SF/NYC/Seattle 25% in-office; Telegram alerted |
 | 204 | 2026-05-13 | Anthropic | Public Policy, Strategic Advisory | 2.0/5 | SKIP | ❌ |  | IC strategic policy advisor; requires 8+ yrs public affairs/policy/govt relations; AC has no policy/govt background; comp $265-295K below $300K floor |
-| 205 | 2026-06-05 | OpenAI | Government Account Director, National Security | 2.3/5 | SKIP | ❌ | [283](reports/283-openai-government-account-director-national-security-2026-06-05.md) | Re-eval 2026-06-05 (1.5→2.3). Hard blockers: TS clearance, DoD/IC sales, federal contracting. AC has civilian/state only |
+| 205 | 2026-06-19 | OpenAI | Account Director, Government Scale | 2.8/5 | SKIP | ❌ |  | Re-eval 2026-06-19 (2.3→2.8). Government AE/sales; AC has no federal sales cycle (precedent #31/#114) |
 | 206 | 2026-05-13 | OpenAI | Executive Transformation Program Lead, Embedded Experience | 4.4/5 | Evaluated | ✅ | [206](reports/206-openai-executive-transformation-program-lead-2026-05-13.md) | Strong AI Transformation match; senior leader builds executive program; GPO bootcamp model + 5K analyst enablement + 600+ AI community + $10M+ flagship operating model + 5 production AI platforms; SF $378-441K well above target; Telegram alerted |
 | 207 | 2026-05-13 | OpenAI | Head of Growth GSIs - Cognizant Infosys & Wipro | 4.6/5 | Evaluated | ✅ | [207](reports/207-openai-head-growth-gsis-cognizant-infosys-wipro-2026-05-13.md) | STRONG MATCH; Accenture-MD inside peer GSI is exact resume; $150M co-sell + multi-partner CA vaccine + 9K-practice + 5K enablement + builder; $378-500K top-of-market; SF hybrid + India travel; matches OpenAI BCG/McKinsey alliance 4.6-4.7 precedent; Telegram alerted |
 | 208 | 2026-05-13 | OpenAI | Partner Director GSIs - Cognizant and Infosys | 4.3/5 | Evaluated | ✅ | [208](reports/208-openai-partner-director-gsis-cognizant-infosys-2026-05-13.md) | Execution-tier sibling of #207 reports into Head of GSIs; same Accenture-MD-inside-GSI strength; $297-440K clears target at mid; SF hybrid; AC could position for either #207 or #208 but #207 is the level-correct primary; Telegram alerted |
@@ -119,7 +128,7 @@
 | 82 | 2026-04-22 | Anthropic | Head of Portfolio Marketing | 2.5/5 | SKIP | ❌ |  | Marketing leadership role; AC's profile is transformation/GTM, not portfolio marketing |
 | 83 | 2026-06-06 | OpenAI | Enterprise Relationship Manager, Customer Marketing — SF | 3.0/5 | SKIP | ❌ |  | Re-eval 2026-06-06 (2.2→3). Customer advocacy/exec-customer-programs IC role; matches #027 Anthropic Head of Customer Programs (3.3) SKIP precedent — AC has no B2B customer marketing/advocacy function background; comp $266-295K below $300K base floor; SF 3 days/wk |
 | 91 | 2026-04-24 | OpenAI | Enterprise Product Manager - AI Solutions | 3.2/5 | SKIP | ❌ |  | IC Product Manager role (excluded by min_level=Director); comp $260K-$288K below AC's $300K base floor; strong AI Solutions angle + Oracle Fusion match but IC label is hard blocker |
-| 84 | 2026-04-22 | OpenAI | Customer Success Manager, Ads Solutions | 2.0/5 | SKIP | ❌ |  | CSM IC level; Ads domain not AC's; London location conflict |
+| 84 | 2026-06-19 | OpenAI | Applied Data Science & Insights Leader - GTM Intelligence Solutions and Technical Success | 3.0/5 | SKIP | ❌ |  | Re-eval 2026-06-19 (2→3). Hands-on DS/ML technical leader; AC not a data scientist (precedent #261 Data Scientist GTM 2.0) |
 | 85 | 2026-04-22 | OpenAI | Customer Success Manager, Ads Solutions | 2.0/5 | SKIP | ❌ |  | CSM IC level; Ads domain not AC's; Tokyo location conflict |
 | 86 | 2026-04-22 | OpenAI | Director, Compute Finance FP&A | 2.2/5 | SKIP | ❌ |  | Director level but pure FP&A/compute finance; AC has no CFO-office background |
 | 71 | 2026-04-20 | OpenAI | Head of EMEA Product Partnerships | 2.5/5 | SKIP | ❌ |  | EMEA-based (Munich/London/Dublin/Paris hybrid 3 days/week); AC is US-only per constraints — hard location blocker; strong partnerships archetype match but location disqualifies |
