@@ -2,6 +2,60 @@
 
 | # | Fecha | Empresa | Rol | Score | Estado | PDF | Report | Notes |
 |---|-------|---------|-----|-------|--------|-----|--------|-------|
+| 327 | 2026-06-20 | Writer | Strategic AI transformation lead (East/NYC) | 3.7/5 | Evaluated | ❌ | [327](reports/327-writer-strategic-ai-transformation-lead-2026-06-20.md) | Bullseye transformation-consulting archetype but sub-Director (reports to director) + base $205-260K below $300K floor; quota/commission field role. Below 4.0 threshold. US variants Central/West (#360/#362) |
+| 328 | 2026-06-20 | Sierra | Global Head of Sales Enablement | 3.6/5 | Evaluated | ❌ | [328](reports/328-sierra-global-head-sales-enablement-2026-06-20.md) | Head-of enablement builder; AC enablement-at-scale match (9K practice, 5K analysts, 600+ community) but '12+ yrs SALES enablement at B2B software' true gap + base $215-265K below floor. Below 4.0 threshold. Matches #257/#249 pattern |
+| 329 | 2026-06-20 | Dataiku | Area Vice President, Sales ASEAN | 1.5/5 | SKIP | ❌ |  | Non-US (Singapore) + sales VP/AE; us_only blocker |
+| 330 | 2026-06-20 | Dataiku | Director, Global Services | 1.8/5 | SKIP | ❌ |  | Non-US (London); us_only blocker |
+| 331 | 2026-06-20 | Dataiku | Director Product Marketing | 2.5/5 | SKIP | ❌ |  | Product marketing director; off transformation archetype (precedent #82/#137) |
+| 332 | 2026-06-20 | Dataiku | Enterprise Account Executive (Seoul) | 1.5/5 | SKIP | ❌ |  | Non-US (Seoul) + AE below Director |
+| 333 | 2026-06-20 | Dataiku | Enterprise Account Executive (US Remote) | 2.0/5 | SKIP | ❌ |  | AE below Director floor (precedent #45-60) |
+| 334 | 2026-06-20 | Dataiku | Enterprise Account Executive, ASEAN (Malaysia) | 1.5/5 | SKIP | ❌ |  | Non-US (Singapore) + AE |
+| 335 | 2026-06-20 | Dataiku | Enterprise Account Executive, Japan | FSI | 1.5/5 | SKIP | ❌ |  | Non-US (Tokyo) + FSI exclude + AE; triple blocker |
+| 336 | 2026-06-20 | Dataiku | Enterprise Account Executive - Japan | Retail & Telco | 1.5/5 | SKIP | ❌ |  | Non-US (Tokyo) + AE |
+| 337 | 2026-06-20 | Dataiku | Enterprise Account Executive, Latin America | 1.8/5 | SKIP | ❌ |  | LATAM-territory AE; below Director floor |
+| 338 | 2026-06-20 | Dataiku | Senior Customer Success Engineer (NY) | 2.0/5 | SKIP | ❌ |  | CS Engineer IC; AC excludes Engineer/IC (no SWE depth) |
+| 339 | 2026-06-20 | Dataiku | Senior Customer Success Engineer (Denver) | 2.0/5 | SKIP | ❌ |  | CS Engineer IC; AC excludes Engineer/IC (no SWE depth) |
+| 340 | 2026-06-20 | Dataiku | Senior Customer Success Manager - Switzerland | 1.5/5 | SKIP | ❌ |  | Non-US (Switzerland) + Manager below Director |
+| 341 | 2026-06-20 | Dataiku | Sr Customer Success Manager (Riyadh) | 1.5/5 | SKIP | ❌ |  | Non-US (Saudi Arabia) + Manager below Director |
+| 342 | 2026-06-20 | Dataiku | Strategic Customer Success Manager | 1.8/5 | SKIP | ❌ |  | Non-US (London) + Manager below Director |
+| 343 | 2026-06-20 | Dataiku | VP, Reasoning Systems | 3.3/5 | SKIP | ❌ |  | VP product/GM for new technical category (data/models/rules/agents); product-GM not transformation consulting; AC no product P&L/category-creation. Below 3.5 |
+| 344 | 2026-06-20 | Palantir | Forward Deployed Enablement Engineer - Customer Success (London) | 1.8/5 | SKIP | ❌ |  | Non-US (London) + Engineer IC; AC excludes Engineer |
+| 345 | 2026-06-20 | Palantir | Forward Deployed Enablement Engineer - Customer Success (NY) | 2.2/5 | SKIP | ❌ |  | Engineer IC role; AC excludes Engineer (no SWE depth) |
+| 346 | 2026-06-20 | Palantir | Forward Deployed Enablement Engineer - Customer Success (DC) | 2.2/5 | SKIP | ❌ |  | Engineer IC role; AC excludes Engineer (no SWE depth) |
+| 347 | 2026-06-20 | Writer | Enterprise account executive (UK) | 1.5/5 | SKIP | ❌ |  | Non-US (London) + AE |
+| 348 | 2026-06-20 | Writer | Enterprise AI adoption lead (Central) | 3.0/5 | SKIP | ❌ |  | Adoption/CSM-flavored field lead; base $142-179K well below floor; sub-Director. Below 3.5 |
+| 349 | 2026-06-20 | Writer | Enterprise AI adoption lead (East) | 3.0/5 | SKIP | ❌ |  | Adoption/CSM field lead; base $146-185K below floor; sub-Director. Below 3.5 |
+| 350 | 2026-06-20 | Writer | Enterprise AI adoption lead (UK) | 1.8/5 | SKIP | ❌ |  | Non-US (London) |
+| 351 | 2026-06-20 | Writer | Enterprise AI adoption lead (West) | 3.0/5 | SKIP | ❌ |  | Adoption/CSM field lead; base $142-185K below floor; sub-Director. Below 3.5 |
+| 352 | 2026-06-20 | Writer | Enterprise AI transformation lead (Central) | 3.3/5 | SKIP | ❌ |  | Transformation archetype but Enterprise (smaller accts), base $156-198K below floor, sub-Director; weaker variant of #327. Below 3.5 |
+| 353 | 2026-06-20 | Writer | Enterprise AI transformation lead (East) | 3.3/5 | SKIP | ❌ |  | Transformation archetype but Enterprise tier, base $174-220K below floor, sub-Director; weaker variant of #327. Below 3.5 |
+| 354 | 2026-06-20 | Writer | Enterprise AI transformation lead (UK) | 1.8/5 | SKIP | ❌ |  | Non-US (London) |
+| 355 | 2026-06-20 | Writer | Enterprise AI transformation lead (West) | 3.3/5 | SKIP | ❌ |  | Transformation archetype but Enterprise tier, base $156-220K below floor, sub-Director; weaker variant of #327. Below 3.5 |
+| 356 | 2026-06-20 | Writer | Strategic AI adoption lead (Central) | 3.2/5 | SKIP | ❌ |  | Adoption/CSM counterpart to transformation lead; base $167-211K below floor; sub-Director. Below 3.5 |
+| 357 | 2026-06-20 | Writer | Strategic AI adoption lead (East) | 3.2/5 | SKIP | ❌ |  | Adoption/CSM counterpart; base $173-219K below floor; sub-Director. Below 3.5 |
+| 358 | 2026-06-20 | Writer | Strategic AI adoption lead (UK) | 1.8/5 | SKIP | ❌ |  | Non-US (London) |
+| 359 | 2026-06-20 | Writer | Strategic AI adoption lead (West) | 3.2/5 | SKIP | ❌ |  | Adoption/CSM counterpart; base $167-219K below floor; sub-Director. Below 3.5 |
+| 360 | 2026-06-20 | Writer | Strategic AI transformation lead (Central) | 3.7/5 | Evaluated | ❌ | [327](reports/327-writer-strategic-ai-transformation-lead-2026-06-20.md) | Central location variant of #327; bullseye archetype but sub-Director + base $184-233K below floor. Below 4.0 threshold |
+| 361 | 2026-06-20 | Writer | Strategic AI transformation lead (UK) | 1.8/5 | SKIP | ❌ |  | Non-US (London) |
+| 362 | 2026-06-20 | Writer | Strategic AI transformation lead (West) | 3.7/5 | Evaluated | ❌ | [327](reports/327-writer-strategic-ai-transformation-lead-2026-06-20.md) | West location variant of #327; bullseye archetype but sub-Director + base $184-260K below floor. Below 4.0 threshold |
+| 363 | 2026-06-20 | Writer | VP, customer success (EMEA) | 1.8/5 | SKIP | ❌ |  | Non-US (London/EMEA); strong title but us_only blocker |
+| 364 | 2026-06-20 | Sierra | Business Development | 3.0/5 | SKIP | ❌ |  | Senior BD/sales IC; base $210-290K below floor; below Director framing. Below 3.5 |
+| 365 | 2026-06-20 | Sierra | Enterprise Account Executive (Singapore) | 1.5/5 | SKIP | ❌ |  | Non-US (Singapore) + AE |
+| 366 | 2026-06-20 | Sierra | Enterprise Account Executive (ANZ) | 1.5/5 | SKIP | ❌ |  | Non-US (Sydney) + AE |
+| 367 | 2026-06-20 | Sierra | Enterprise Account Executive, Europe | 1.5/5 | SKIP | ❌ |  | Non-US (London) + AE |
+| 368 | 2026-06-20 | Sierra | Enterprise Account Executive, Europe (Arabic speaking) | 1.5/5 | SKIP | ❌ |  | Non-US (London) + AE |
+| 369 | 2026-06-20 | Sierra | Enterprise Account Executive, Europe (Dutch speaking) | 1.5/5 | SKIP | ❌ |  | Non-US (London) + AE |
+| 370 | 2026-06-20 | Sierra | Enterprise Account Executive, Europe (Italian speaking) | 1.5/5 | SKIP | ❌ |  | Non-US (London) + AE |
+| 371 | 2026-06-20 | Sierra | Enterprise Sales Leader (US Remote) | 3.0/5 | SKIP | ❌ |  | Front-line sales leadership; AC no AE-team leadership (precedent #201/#65/#66) despite strong OTE $370-400K. Below 3.5 |
+| 372 | 2026-06-20 | Sierra | Enterprise Sales Leader (Paris) | 1.5/5 | SKIP | ❌ |  | Non-US (Paris) |
+| 373 | 2026-06-20 | Sierra | Enterprise Sales Leader (ANZ) | 1.5/5 | SKIP | ❌ |  | Non-US (Sydney) |
+| 374 | 2026-06-20 | Sierra | GTM Engineer | 2.0/5 | SKIP | ❌ |  | Engineer IC; AC excludes Engineer (no SWE depth) |
+| 375 | 2026-06-20 | Sierra | GTM Operations, Planning | 3.0/5 | SKIP | ❌ |  | RevOps planning IC; sales-ops mechanics gap (precedent #113); base below floor. Below 3.5 |
+| 376 | 2026-06-20 | Sierra | GTM Strategy and Operations | 3.0/5 | SKIP | ❌ |  | Territory carve/RevOps IC; sales-ops mechanics gap (precedent #109/#112/#113); base $215-245K below floor. Below 3.5 |
+| 377 | 2026-06-20 | Sierra | Sales Director (Canada Remote) | 1.5/5 | SKIP | ❌ |  | Non-US (Canada) |
+| 378 | 2026-06-20 | Sierra | Sales Director (US Remote) | 2.9/5 | SKIP | ❌ |  | Sales leadership; AC no AE-team leadership (precedent #201); base $300-345K. Below 3.5 |
+| 379 | 2026-06-20 | Sierra | Sales Director, DACH | 1.5/5 | SKIP | ❌ |  | Non-US (Munich) |
+| 380 | 2026-06-20 | Sierra | Sales Director, Spain | 1.5/5 | SKIP | ❌ |  | Non-US (Madrid) |
 | 298 | 2026-06-19 | Anthropic | Head of Investments & Liquidity | 2.0/5 | SKIP | ❌ |  | Treasury/finance role; no AC background |
 | 299 | 2026-06-19 | Anthropic | Head of Social Communications | 2.0/5 | SKIP | ❌ |  | Comms/marketing leadership; off AC transformation archetype |
 | 301 | 2026-06-19 | Anthropic | Product Manager, GTM Experiences | 2.5/5 | SKIP | ❌ |  | PM role; AC excludes PM titles |
