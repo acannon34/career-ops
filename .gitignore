@@ -25,7 +25,8 @@ jds/*
 config/profile.yml
 # portals.yml is intentionally TRACKED so the scanner config syncs Mac <-> ThinkPad via git.
 # (It contains no secrets; wolverine is a private repo.)
-modes/_profile.md
+# modes/_profile.md is also TRACKED: it's the positioning source of truth and the scanner
+# reads it for evaluations — syncing it gives the ThinkPad the real profile, not a template stub.
 .update-dismissed
 .update-lock
 
