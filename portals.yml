@@ -1,0 +1,306 @@
+title_filter:
+  positive:
+    - transformation
+    - strategy
+    - enterprise
+    - go-to-market
+    - gtm
+    - adoption
+    - operating model
+    - business development
+    - partnerships
+    - chief of staff
+    - chief
+    - head of
+    - vice president
+    - vp
+    - director
+    - solutions architect
+    - customer success
+    - principal
+    - professional services
+    - revenue
+    - advisory
+    - program
+    - account executive
+    - manager, applied ai
+    - manager, solutions
+  negative:
+    - software engineer
+    - research engineer
+    - ml engineer
+    - data engineer
+    - infrastructure
+    - machine learning
+    - research scientist
+    - phd
+    - intern
+    - data center
+    - hardware
+    - gpu
+    - mlops
+    - devops
+    - security engineer
+    - privacy engineer
+    - design engineer
+    - legal counsel
+    - executive assistant
+    - revenue recognition
+    - certification development
+  seniority_boost:
+    - head of
+    - vice president
+    - vp
+    - director
+    - principal
+    - managing director
+    - chief
+
+tracked_companies:
+  - name: Anthropic
+    enabled: true
+    priority: 1
+    platform: greenhouse
+    greenhouse_slug: anthropic
+    careers_url: https://www.anthropic.com/careers
+    api: https://boards-api.greenhouse.io/v1/boards/anthropic/jobs
+
+  - name: OpenAI
+    enabled: true
+    priority: 2
+    platform: ashby
+    ashby_slug: openai
+    careers_url: https://openai.com/careers
+
+  - name: Glean
+    enabled: true
+    priority: 2
+    platform: ashby
+    ashby_slug: glean
+    careers_url: https://jobs.ashbyhq.com/glean
+
+  - name: Scale AI
+    enabled: true
+    priority: 2
+    platform: greenhouse
+    greenhouse_slug: scaleai
+    careers_url: https://scale.com/careers
+    api: https://boards-api.greenhouse.io/v1/boards/scaleai/jobs
+
+  - name: Mistral
+    enabled: true
+    priority: 3
+    platform: lever
+    lever_slug: mistral
+    careers_url: https://mistral.ai/careers
+
+  - name: Cohere
+    enabled: true
+    priority: 3
+    platform: ashby
+    ashby_slug: cohere
+    careers_url: https://jobs.ashbyhq.com/cohere
+
+  - name: Harvey
+    enabled: true
+    priority: 3
+    platform: ashby
+    ashby_slug: harvey
+    careers_url: https://jobs.ashbyhq.com/harvey
+
+  - name: Perplexity
+    enabled: true
+    priority: 4
+    platform: ashby
+    ashby_slug: perplexity
+    careers_url: https://jobs.ashbyhq.com/perplexity
+
+  - name: xAI
+    enabled: false
+    priority: 5
+    platform: greenhouse
+    greenhouse_slug: xai
+    careers_url: https://x.ai/careers
+    api: https://boards-api.greenhouse.io/v1/boards/xai/jobs
+    note: "Wrong roles, wrong culture — AC rated 2/10"
+
+  - name: Databricks
+    enabled: true
+    priority: 3
+    platform: greenhouse
+    greenhouse_slug: databricks
+    careers_url: https://www.databricks.com/company/careers
+    api: https://boards-api.greenhouse.io/v1/boards/databricks/jobs
+
+  # ---- Enterprise transformation employers (added 2026-06-23) ----
+  # ATS slugs verified live via Greenhouse/Ashby/Lever APIs. Wide net: AI-led + broad
+  # transformation, in AC's sectors (consumer/retail, healthcare, public sector, enterprise
+  # tech, consulting). No Financial Services. NOTE: scanner only reads GH/Ashby/Lever, so
+  # Workday-shop incumbents (the big consultancies, most F500) are NOT here — those are a
+  # network / executive-search play. See strategy/landing-spots.md.
+
+  # enterprise software / data
+  - name: Snowflake
+    enabled: true
+    priority: 4
+    platform: ashby
+    ashby_slug: Snowflake
+    careers_url: https://jobs.ashbyhq.com/Snowflake
+    note: "Enterprise data cloud; transformation/ops director roles."
+
+  - name: GitLab
+    enabled: true
+    priority: 4
+    platform: greenhouse
+    greenhouse_slug: gitlab
+    careers_url: https://about.gitlab.com/jobs/
+    api: https://boards-api.greenhouse.io/v1/boards/gitlab/jobs
+    note: "All-remote DevOps SaaS; strategy & ops + AI roles."
+
+  - name: Samsara
+    enabled: true
+    priority: 4
+    platform: greenhouse
+    greenhouse_slug: samsara
+    careers_url: https://www.samsara.com/company/careers
+    api: https://boards-api.greenhouse.io/v1/boards/samsara/jobs
+    note: "Connected-operations platform; physical-ops digital transformation."
+
+  - name: Elastic
+    enabled: true
+    priority: 5
+    platform: greenhouse
+    greenhouse_slug: elastic
+    careers_url: https://www.elastic.co/careers
+    api: https://boards-api.greenhouse.io/v1/boards/elastic/jobs
+    note: "Enterprise search/observability SaaS; transformation + strategy roles."
+
+  - name: Notion
+    enabled: true
+    priority: 5
+    platform: ashby
+    ashby_slug: Notion
+    careers_url: https://jobs.ashbyhq.com/Notion
+    note: "Enterprise productivity SaaS; applied-AI + GTM strategy roles."
+
+  - name: Confluent
+    enabled: true
+    priority: 5
+    platform: ashby
+    ashby_slug: Confluent
+    careers_url: https://jobs.ashbyhq.com/Confluent
+    note: "Enterprise data-streaming SaaS; product/ops leadership."
+
+  # consumer / retail
+  - name: Instacart
+    enabled: true
+    priority: 4
+    platform: greenhouse
+    greenhouse_slug: instacart
+    careers_url: https://instacart.careers/
+    api: https://boards-api.greenhouse.io/v1/boards/instacart/jobs
+    note: "Retail/grocery tech; finance transformation + strategy/ops."
+
+  - name: Flexport
+    enabled: true
+    priority: 4
+    platform: greenhouse
+    greenhouse_slug: flexport
+    careers_url: https://www.flexport.com/careers/
+    api: https://boards-api.greenhouse.io/v1/boards/flexport/jobs
+    note: "Supply-chain/logistics tech; applied AI + ops transformation."
+
+  - name: Reddit
+    enabled: true
+    priority: 5
+    platform: greenhouse
+    greenhouse_slug: reddit
+    careers_url: https://www.redditinc.com/careers
+    api: https://boards-api.greenhouse.io/v1/boards/reddit/jobs
+    note: "Consumer-internet at scale; strategy & ops leadership."
+
+  # healthcare / health-tech (payer-adjacent, not an FS employer)
+  - name: Oscar Health
+    enabled: true
+    priority: 4
+    platform: greenhouse
+    greenhouse_slug: oscar
+    careers_url: https://www.hioscar.com/careers
+    api: https://boards-api.greenhouse.io/v1/boards/oscar/jobs
+    note: "Tech-driven health-insurance platform; applied AI + transformation. Health payer, not FS."
+
+  - name: Komodo Health
+    enabled: true
+    priority: 4
+    platform: greenhouse
+    greenhouse_slug: komodohealth
+    careers_url: https://www.komodohealth.com/careers
+    api: https://boards-api.greenhouse.io/v1/boards/komodohealth/jobs
+    note: "Healthcare data/analytics (health-tech)."
+
+  - name: Veeva Systems
+    enabled: true
+    priority: 4
+    platform: lever
+    lever_slug: veeva
+    careers_url: https://jobs.lever.co/veeva
+    note: "Life-sciences/healthcare enterprise SaaS; consulting + strategy roles."
+
+  # consulting / delivery
+  - name: Thoughtworks
+    enabled: true
+    priority: 4
+    platform: greenhouse
+    greenhouse_slug: thoughtworks
+    careers_url: https://www.thoughtworks.com/careers
+    api: https://boards-api.greenhouse.io/v1/boards/thoughtworks/jobs
+    note: "Global tech consultancy; digital/AI transformation delivery leadership."
+
+  - name: Palantir
+    enabled: true
+    priority: 4
+    platform: lever
+    lever_slug: palantir
+    careers_url: https://jobs.lever.co/palantir
+    note: "Gov + enterprise deployment; Deployment Strategist = de-facto transformation lead."
+
+  # public sector / mission
+  - name: Code for America
+    enabled: true
+    priority: 5
+    platform: greenhouse
+    greenhouse_slug: codeforamerica
+    careers_url: https://codeforamerica.org/jobs/
+    api: https://boards-api.greenhouse.io/v1/boards/codeforamerica/jobs
+    note: "US gov-tech non-profit; digital-government transformation. Small board."
+
+  - name: Mozilla
+    enabled: true
+    priority: 5
+    platform: greenhouse
+    greenhouse_slug: mozilla
+    careers_url: https://www.mozilla.org/careers/
+    api: https://boards-api.greenhouse.io/v1/boards/mozilla/jobs
+    note: "Large tech non-profit/foundation; strategy + AI roles."
+
+  - name: Khan Academy
+    enabled: true
+    priority: 5
+    platform: greenhouse
+    greenhouse_slug: khanacademy
+    careers_url: https://www.khanacademy.org/careers
+    api: https://boards-api.greenhouse.io/v1/boards/khanacademy/jobs
+    note: "Education non-profit; applied-AI + strategy leadership. Small board."
+
+search_queries:
+  - name: "Ashby — AI enterprise roles"
+    query: 'site:jobs.ashbyhq.com "director" OR "head of" OR "VP" "AI" OR "enterprise"'
+    enabled: true
+
+  - name: "Greenhouse — AI transformation"
+    query: 'site:boards.greenhouse.io "transformation" OR "solutions architect" OR "professional services" "AI"'
+    enabled: true
+
+  - name: "Lever — AI strategy"
+    query: 'site:jobs.lever.co "strategy" OR "enterprise" OR "director" "AI" OR "LLM"'
+    enabled: true

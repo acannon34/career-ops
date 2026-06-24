@@ -2,12 +2,16 @@
 
 The strategic layer of `career-ops`. Where `career-ops/` runs the *operational* job-search
 pipeline (scan, evaluate, tailor, apply), this folder holds the deliberate (3–9 month)
-transition strategy out of the Accenture MD practice-leadership role toward two destinations:
+transition strategy out of the Accenture MD practice-leadership role.
 
-- **PE / portfolio operating roles** — join a structure (operating partner, portfolio-company exec). **← current lead track**
-- **Build / independent** — leave all structure (solo advisory, small firm, or productized IP)
+**Four landing spots run in parallel** — see [`landing-spots.md`](landing-spots.md) for the full map:
 
-The two tracks share a foundation (covenant review, narrative, build-in-public) and diverge around month 4.
+- **AI-lab roles** (W2) — the active scanner lane (Anthropic, OpenAI, etc.)
+- **Enterprise transformation** (W2) — Chief AI / Transformation Officer, Head of Enterprise Transformation, etc.
+- **PE / portfolio operating roles** (ownership) — operating partner / portfolio-company exec. **← current lead of the two ownership tracks**
+- **Build / independent** (ownership) — solo advisory, small firm, or productized IP. *Parked.*
+
+The two **ownership** tracks share a foundation (covenant review, narrative, build-in-public) and diverge around month 4; that fork is what `03`–`06` plan. The two **W2** lanes are fed by the scanner plus network.
 
 **Relationship to the rest of career-ops:** verified proof points, archetype mapping, and comp
 targets live in [`../modes/_profile.md`](../modes/_profile.md). This strategy layer *reuses* that

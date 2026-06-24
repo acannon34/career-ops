@@ -20,6 +20,14 @@ The big retained firms plus the PE-focused boutiques. Track contacts and status.
 | [PE-focused boutique] | Boutique | | | The boutiques funds actually use for portfolio roles — research which serve your sector |
 | | | | | |
 
+> **Double-duty with the enterprise-transformation landing spot.** These same retained firms
+> (Heidrick, Spencer Stuart, Russell Reynolds) place the senior *enterprise transformation*
+> roles (Chief Transformation Officer, Head of Enterprise Transformation) that the automated
+> scanner can't see — most large incumbents and every major consultancy run Workday, off-ATS.
+> So one outreach conversation can cover *both* mandates: "operating-partner / portfolio-exec
+> roles **and** enterprise transformation leadership." Frame it that way — it widens what they
+> bring you without diluting the pitch. See [`../landing-spots.md`](../landing-spots.md).
+
 ---
 
 ## Operating partners (warm intros are the prize)

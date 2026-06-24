@@ -23,7 +23,8 @@ jds/*
 
 # User config and customization (never auto-updated)
 config/profile.yml
-portals.yml
+# portals.yml is intentionally TRACKED so the scanner config syncs Mac <-> ThinkPad via git.
+# (It contains no secrets; wolverine is a private repo.)
 modes/_profile.md
 .update-dismissed
 .update-lock
