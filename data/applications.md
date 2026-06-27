@@ -2,6 +2,32 @@
 
 | # | Fecha | Empresa | Rol | Score | Estado | PDF | Report | Notes |
 |---|-------|---------|-----|-------|--------|-----|--------|-------|
+| 394 | 2026-06-27 | Databricks | Director, Regional System Integrator Portfolio | 4.1/5 | Evaluated | ✅ | [394](reports/394-databricks-rsi-portfolio-director-2026-06-27.md) | STRONG MATCH; Alliance/Partnerships bullseye — Accenture-MD-inside-a-GSI is exactly the SI partner class Databricks scales; $150M co-sell + multi-partner CA vaccine + 9K-practice/5K-analyst enablement + builder fluency; Director, Remote US; base $204-281K below $300K floor (equity-upside play, Databricks pre-IPO); true gap is vendor-side alliance team title (same bridge as OpenAI GSI #207/#208). Telegram alerted |
+| 395 | 2026-06-27 | Databricks | Sr. Technology Partner Director, Business Applications | 3.5/5 | Evaluated | ❌ | [395](reports/395-databricks-tech-partner-director-bizapps-2026-06-27.md) | Below 4.0 threshold; partnerships archetype but ISV/product-partnership sub-type — wants 5+ yrs Business-App ISVs + hyperscaler ISV-program history (true gap, same as #36/#37/#43); IC partner-owner scope despite Director title; base tops $246K below floor |
+| 398 | 2026-06-27 | Scale AI | Head of Field Marketing and Events, Gen AI | 2.0/5 | SKIP | ❌ |  | Marketing/events leadership; off AC transformation archetype (precedent #82/#137) |
+| 400 | 2026-06-27 | Databricks | Director, Enterprise | 3.0/5 | SKIP | ❌ |  | Enterprise SALES Director leading an AE team on team quota (MEDDPICC/Challenger); AC no AE-team leadership (precedent #65/#66/#201/#378) |
+| 401 | 2026-06-27 | Databricks | Director, Lakebase Sales Specialists - HLS | 3.0/5 | SKIP | ❌ |  | Product sales-specialist overlay leadership (Lakebase, Healthcare/Life Sciences); AC no sales-specialist/AE leadership; quota-carrying |
+| 402 | 2026-06-27 | Databricks | Solutions Architect (Benelux Hunter Pre-sales) | 1.5/5 | SKIP | ❌ |  | Non-US (Amsterdam) + IC pre-sales SA; below Director floor |
+| 403 | 2026-06-27 | GitLab | Customer Success Manager- Public Sector | 2.0/5 | SKIP | ❌ |  | CSM Manager level; below AC Director+ floor |
+| 404 | 2026-06-27 | GitLab | Public Sector Strategic Account Executive, FSI | 1.5/5 | SKIP | ❌ |  | AE + FSI vertical (both blockers); below Director floor |
+| 405 | 2026-06-27 | GitLab | Senior Director, Field CTOs | 3.4/5 | SKIP | ❌ |  | Senior Director player-coach (good altitude, Remote US) but Field-CTO = deep DevSecOps technical/product authority; AC has technical fluency not platform-CTO depth in DevSecOps. Below 3.5 |
+| 406 | 2026-06-27 | GitLab | Senior Manager, Business Development | 1.5/5 | SKIP | ❌ |  | Non-US (Germany/Ireland/NL/UK) + Manager level |
+| 407 | 2026-06-27 | GitLab | Solutions Architect, LATAM | 1.5/5 | SKIP | ❌ |  | Non-US (Mexico) + IC SA |
+| 408 | 2026-06-27 | Samsara | Applied AI Specialist, Commercial Customer Success | 2.5/5 | SKIP | ❌ |  | Specialist IC + Customer Success; below Director floor |
+| 409 | 2026-06-27 | Samsara | Senior Sales Strategy Manager, New Product | 2.8/5 | SKIP | ❌ |  | Sales-strategy/RevOps Manager; sales-ops mechanics + below Director floor (precedent #113) |
+| 410 | 2026-06-27 | Samsara | Strategic Customer Success Manager | 1.5/5 | SKIP | ❌ |  | Non-US (Canada) + Manager level |
+| 411 | 2026-06-27 | Flexport | Enterprise Account Executive | 2.0/5 | SKIP | ❌ |  | AE (Phoenix AZ); below Director floor |
+| 412 | 2026-06-27 | Oscar Health | Director, Medical Economics (NY) | 2.8/5 | SKIP | ❌ |  | Actuarial/medical-economics function (trend mgmt, medical cost analytics); AC has payer ops (Aetna) not actuarial; base $199-261K below floor |
+| 413 | 2026-06-27 | Oscar Health | Director, Medical Economics (Tempe) | 2.8/5 | SKIP | ❌ |  | Tempe AZ variant of #412; actuarial/medical-economics gap; base below floor |
+| 414 | 2026-06-27 | Oscar Health | Director, Medical Economics (Atlanta) | 2.8/5 | SKIP | ❌ |  | Atlanta GA variant of #412; actuarial/medical-economics gap; base below floor |
+| 415 | 2026-06-27 | Oscar Health | Director, Medical Economics (Dallas) | 2.8/5 | SKIP | ❌ |  | Dallas TX variant of #412; actuarial/medical-economics gap; base below floor |
+| 416 | 2026-06-27 | Oscar Health | Manager, Tech Strategy & Operations | 2.5/5 | SKIP | ❌ |  | Manager 'arms and legs' exec-support/ops-rhythm role; below Director floor; base $123-162K well below floor |
+| 417 | 2026-06-27 | Mozilla | Director of Strategic Finance & Investment Strategy | 2.0/5 | SKIP | ❌ |  | Strategic finance / investment strategy (FP&A); AC no strategic-finance background (precedent #70/#86/#150) |
+| 418 | 2026-06-27 | Veeva Systems | Principal Software Developer - Platform | 1.5/5 | SKIP | ❌ |  | Non-US (Beijing) + Software Developer IC; AC excludes Engineer (no SWE depth) |
+| 419 | 2026-06-27 | OpenAI | Head of Scaled, Ads Solutions | 2.5/5 | SKIP | ❌ |  | Ads domain + scaled CS/sales; not AC archetype (precedent #85 Ads) |
+| 421 | 2026-06-27 | Cohere | Director, Corporate Communications | 1.8/5 | SKIP | ❌ |  | Corporate comms leadership; off archetype (precedent #250/#251/#299) |
+| 422 | 2026-06-27 | Snowflake | Account Executive, Commercial | 2.0/5 | SKIP | ❌ |  | AE (Denver CO); below Director floor |
+| 423 | 2026-06-27 | Notion | Revenue Accountant | 1.5/5 | SKIP | ❌ |  | Accounting IC ('revenue' keyword false-positive); off AC archetype |
 | 327 | 2026-06-20 | Writer | Strategic AI transformation lead (East/NYC) | 3.7/5 | Evaluated | ❌ | [327](reports/327-writer-strategic-ai-transformation-lead-2026-06-20.md) | Bullseye transformation-consulting archetype but sub-Director (reports to director) + base $205-260K below $300K floor; quota/commission field role. Below 4.0 threshold. US variants Central/West (#360/#362) |
 | 328 | 2026-06-20 | Sierra | Global Head of Sales Enablement | 3.6/5 | Evaluated | ❌ | [328](reports/328-sierra-global-head-sales-enablement-2026-06-20.md) | Head-of enablement builder; AC enablement-at-scale match (9K practice, 5K analysts, 600+ community) but '12+ yrs SALES enablement at B2B software' true gap + base $215-265K below floor. Below 4.0 threshold. Matches #257/#249 pattern |
 | 329 | 2026-06-20 | Dataiku | Area Vice President, Sales ASEAN | 1.5/5 | SKIP | ❌ |  | Non-US (Singapore) + sales VP/AE; us_only blocker |
